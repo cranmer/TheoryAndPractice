@@ -36,6 +36,8 @@ DEFAULT_PAGINATION = False
 # Additions 
 STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks' 'favicon.png']
 
+CODE_DIR = 'downloads/code'
+NOTEBOOK_DIR = 'downloads/notebooks'
 
 PLUGIN_PATH = '../pelican-plugins/'
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
@@ -43,7 +45,8 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook',
            'liquid_tags.literal']
 
-#THEME = 'pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
+THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
 #THEME = '../pelican-bootstrap3'
@@ -52,5 +55,9 @@ PYGMENTS_STYLE='default'
 
 #INDEX_SAVE_AS = 'index.html'
 
-CODE_DIR = 'downloads/code'
-NOTEBOOK_DIR = 'downloads/notebooks'
+#the deault _nb_header is changing 
+#fonts etc. of rest of notmyidea and pelican-bootstrap3 themes
+#looks ok in notmyidea, but no style at all in bootstrap3
+#EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
+EXTRA_HEADER = '' #need to flush
+
