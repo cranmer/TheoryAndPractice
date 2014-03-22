@@ -6,3 +6,4 @@ Authors: Kyle Cranmer
 Summary: try to set a new home page
 
 This is the index page! 
+$e^{i\pi}+1=0$
