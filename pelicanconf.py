@@ -39,7 +39,7 @@ STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks' 'favicon.png']
 
 PLUGIN_PATH = '../pelican-plugins/'
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
-			'liquid_tags.youtube',
+			'liquid_tags.youtube', 'render_math'
            'liquid_tags.include_code', 'liquid_tags.notebook',
            'liquid_tags.literal']
 
@@ -49,6 +49,8 @@ PYGMENTS_STYLE='default'
 #THEME = '../pelican-bootstrap3'
 #THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-bootstrap3'
 # This requires Pelican 3.3+
+
+#INDEX_SAVE_AS = 'index.html'
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'

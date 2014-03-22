@@ -13,4 +13,4 @@ This is my "Hello World" page
 
 back to normal?
 
-Can I type tex $e^{i\pi}$... not yet
+Can I type tex $e^{i\pi}$... now?
