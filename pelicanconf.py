@@ -23,7 +23,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
-          ('github', 'http://github.com/kylecranmer'),)
+          ('github', 'http://github.com/cranmer'),)
 
 CC_LICENSE="CC-BY"
 
@@ -34,12 +34,21 @@ DEFAULT_PAGINATION = False
 
 ####################################################
 # Additions 
+STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks' 'favicon.png']
 
-THEME = 'pelican-bootstrap3'
+
+PLUGIN_PATH = '../pelican-plugins/'
+PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+			'liquid_tags.youtube',
+           'liquid_tags.include_code', 'liquid_tags.notebook',
+           'liquid_tags.literal']
+
+#THEME = 'pelican-bootstrap3'
+PYGMENTS_STYLE='default'
+#PYGMENTS_STYLE='friendly'
 #THEME = '../pelican-bootstrap3'
 #THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-bootstrap3'
 # This requires Pelican 3.3+
-STATIC_PATHS = ['images', 'downloads', 'favicon.png']
 
-#CODE_DIR = 'downloads/code'
+CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
