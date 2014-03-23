@@ -9,7 +9,7 @@ A quick test of inserting an HTML file with some [D3 magic][] into a
 wordpress post using the iframe trick I found [here][]
 
  
-
+- - -
  
 
 <iframe style="border: 1px;" src="http://new.theoryandpractice.org/wp-content/uploads/2013/06/morphDemo.html" height="650" width="100%" scrolling="yes"></iframe>
