@@ -16,18 +16,7 @@ embedded it below (unfortunately, it seems to be fixed width).
 
 </div>
 
-<p>
-<script>(function(d, t){var g = d.createElement(t),s = d.getElementsByTagName(t)[0];g.src = "http://widget.altmetric.com/js/AltmetricWidget.aspx?aw=607";s.parentNode.insertBefore(g,s);}(document, 'script'));</script>
-</p>
-[Altmetric Widget][] for Atomic, Nuclear, and Particle Physics
 
-<div id="AltmetricWidget609" class="AltmetricWidget" data-id="609">
-
-</div>
-
-<p>
-<script>(function(d, t){var g = d.createElement(t),s = d.getElementsByTagName(t)[0];g.src = "http://widget.altmetric.com/js/AltmetricWidget.aspx?aw=609";s.parentNode.insertBefore(g,s);}(document, 'script'));</script>
-</p>
 
   [Klout]: http://klout.com/#/KyleCranmer
   [ImpactStory profile]: http://impactstory.org/KyleCranmer

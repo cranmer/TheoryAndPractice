@@ -65,7 +65,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.literal']
 
 THEME = 'pelican-bootstrap3'
-THEME = 'notmyidea'
+#THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
 #THEME = '../pelican-bootstrap3'

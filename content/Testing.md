@@ -4,6 +4,8 @@ Slug: Testing-Pelican-Migration
 Category: Blog
 Authors: Kyle Cranmer
 
+So, I'm taking the leap and migrating from Wordpress to pelican.
+
 Testing:
 
 - Here is [a link]({filename}../inspired-by-the-higgs-a-step-forward-in-open-access.md) to a local file
