@@ -2,6 +2,7 @@ Title: Enabling data sharing, citation, and discovery
 Date: 2013-10-02 15:42
 Author: cranmer
 Category: Blog
+Tags: physics, open science
 Slug: enabling-data-sharing-citation-and-discovery
 
 *[A guest post for INSPIRE originally posted [here.][]]*
@@ -12,8 +13,6 @@ author profiles.  Now INSPIRE is taking steps to extend this service to
 data, thus creating a rich new layer to the information system of high
 energy physics.
 
-<div id="post-body-2886127024095993073"
-itemprop="description articleBody">
 
 Historically, papers have been the primary means for scientific
 communication; however, it is common to augment papers with data.  The
@@ -39,7 +38,9 @@ the DOI will "resolve" to the INSPIRE record for this specific dataset
 -   follow the link to the original paper
 -   export a properly formatted citation to the dataset itself
 
-[![][]][]
+<!--![image]( http://2.bp.blogspot.com/-rA32o66Z3Wo/Ukri72OW3WI/AAAAAAAAAGI/cFxa7tghFpg/s1600/InspireDataRecord.png)-->
+
+{% img //2.bp.blogspot.com/-rA32o66Z3Wo/Ukri72OW3WI/AAAAAAAAAGI/cFxa7tghFpg/s1600/InspireDataRecord.png 400 %}
 
 In addition to data coming from HepData, INSPIRE now supports data
 hosted in other third-party data repositories such
@@ -78,8 +79,6 @@ details on datasets analogous to what we are already have with papers.
   [cite the data]: http://thedata.org/files/thedata_new2/files/datacitationprinciples-datacite.pdf
   [step forward]: http://www.quantumdiaries.org/2013/09/12/inspired-by-the-higgs-a-step-forward-in-open-access/
   [ATLAS paper]: http://inspirehep.net/record/1241574
-  []: http://2.bp.blogspot.com/-rA32o66Z3Wo/Ukri72OW3WI/AAAAAAAAAGI/cFxa7tghFpg/s400/InspireDataRecord.png
-  [![][]]: http://2.bp.blogspot.com/-rA32o66Z3Wo/Ukri72OW3WI/AAAAAAAAAGI/cFxa7tghFpg/s1600/InspireDataRecord.png
   [Figshare]: http://figshare.com/
   [The Dataverse Network]: http://thedata.org/
   [some data]: http://hdl.handle.net/1902.1/21804

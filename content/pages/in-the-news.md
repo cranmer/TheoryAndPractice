@@ -8,8 +8,10 @@ work.
 
 **TEDx**
 --------
+<!-- 
+{% youtube Pv_DtHuj5Ds %} 
+-->
 
-  
 <iframe src="//www.youtube.com/embed/Pv_DtHuj5Ds" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +25,12 @@ Higgs Boson: A Natural Disaster!
 "My Story in the Higgs Discovery" Physics Slam on Ice
 -----------------------------------------------------
 
-http://www.youtube.com/watch?v=b1q46oeuG4Q&feature=youtu.be&t=52m32s  
+  
+<!--
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=b1q46oeuG4Q\&feature=youtu.be\&t=52m32s" frameborder="0" allowfullscreen></iframe>
+-->
+
+<iframe width="550" height="309" src="http://www.youtube.com/embed/b1q46oeuG4Q?start=3158;feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 <!--<iframe width="550" height="309" src="http://www.youtube.com/embed/b1q46oeuG4Q?start=3158;feature=oembed" frameborder="0" allowfullscreen></iframe>-->  
 <!-- http://www.youtube.com/watch?v=b1q46oeuG4Q#t=3158-->  
@@ -33,7 +40,7 @@ http://www.youtube.com/watch?v=b1q46oeuG4Q&feature=youtu.be&t=52m32s
 Science Nation
 --------------
 
-<iframe src="//www.youtube.com/embed/d5df1NVkYuQ" width="640" height="360" allowfullscreen frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/d5df1NVkYuQ" width="550" height="309" allowfullscreen frameborder="0"></iframe>
 
 CUNY Institute for Theoretical Sciences: The Higgs Boson
 --------------------------------------------------------
@@ -45,18 +52,17 @@ StarTalk With Neil deGrasse Tyson
 
 Kyle Cranmer joins Bill Nye the Science Guy, Eugene Mirman and Sara
 Vowell on Neil deGrasse Tyson's StarTalk Live for a special episode
-dedicated to the Higgs discovery. Voted fan favorite for 2012. [[Part
-1][]] [[Part 2][]]
+dedicated to the Higgs discovery. Voted fan favorite for 2012. [Part
+1] and [Part 2]
+
+{% img http://www.startalkradio.net/wp-content/uploads/2012/11/Particle-Party-Backstage-Group-Shot1.jpg 550  %}
 
    
 
 The USA Science & Engineering Festival
 --------------------------------------
 
-[slickr-flickr search="sets" set="72157629574053552" items="20"
-type="gallery"]
-
- 
+[Photos](http://www.flickr.com/photos/hoonynoo/sets/72157638481017703/)
 
 The Leonard Lopate Show
 -----------------------
@@ -79,12 +85,10 @@ SpaceLab - The Higgs Sound
 Charlie Rose
 ------------
 
-[![CharlieRose\_forweb2][]][]
+{% img /images/CharlieRose_forweb2-284x300.png %}
+[Link to interview](http://www.charlierose.com/view/interview/10943%20)
 
  
 
   [Part 1]: http://www.startalkradio.net/show/startalk-live-the-particle-party-part-1/
   [Part 2]: http://www.startalkradio.net/show/startalk-live-the-particle-party-part-2/
-  []: http://www.startalkradio.net/wp-content/uploads/2012/11/Particle-Party-Backstage-Group-Shot1.jpg
-  [CharlieRose\_forweb2]: /wp-content/uploads/2013/06/CharlieRose_forweb2-284x300.png
-  [![CharlieRose\_forweb2][]]: http://www.charlierose.com/view/interview/10943%20

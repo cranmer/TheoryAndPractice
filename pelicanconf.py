@@ -15,15 +15,34 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+#DISPLAY_PAGES_ON_MENU =False
+#MENUITEMS = (('Projects','/pages/projects.html'),)
+
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
           ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+		  ('Quantum Diaries', 'http://www.quantumdiaries.org/'),
+		  ('Me @ Quantum Diaries','http://www.quantumdiaries.org/author/kyle-cranmer/'),
+		  ('Not Even Wrong','http://www.math.columbia.edu/~woit/wordpress/'),
+		  ('Cocktail Party Physics','http://twistedphysics.typepad.com/cocktail_party_physics/'),
+		  ('Résonaances','http://resonaances.blogspot.com/'),
+		  ('Matt Strassler','http://profmattstrassler.com/'),
+		  ('Life as a physicist','http://gordonwatts.wordpress.com/'),
+		  ('Tommaso Dorigo','http://www.science20.com/physics'),
+		  ('Cosmic Variance','http://blogs.discovermagazine.com/cosmicvariance/'),
+		  ('Collider Blog','http://muon.wordpress.com/'),
+		  ('Symmetry Breaking','http://www.symmetrymagazine.org/breaking'),
+		  ('INSPIRE','http://blog.inspirehep.net/'),
+		  ('Data Pub','http://datapub.cdlib.org/'),
+		  ('Hogg’s Research','http://hoggresearch.blogspot.com/'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
-          ('github', 'http://github.com/cranmer'),)
+          ('github', 'http://github.com/cranmer'),
+          ('linkedin','http://www.linkedin.com/in/kylecranmer'),
+          ('google+','https://plus.google.com/106689822196584540592/posts'),
+          ('flickr','http://www.flickr.com/photos/hoonynoo/'),)
 
 CC_LICENSE="CC-BY"
 
@@ -52,6 +71,10 @@ PYGMENTS_STYLE='default'
 #THEME = '../pelican-bootstrap3'
 #THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-bootstrap3'
 # This requires Pelican 3.3+
+
+
+
+
 
 #INDEX_SAVE_AS = 'index.html'
 

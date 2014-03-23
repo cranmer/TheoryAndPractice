@@ -12,7 +12,7 @@ more aware of the fundamental particles.  Ideally, we'd like something
 as iconic as the periodic table (which is rotated from [Mendeleev's
 original][]).
 
-![The periodic table][]
+{% img //www.chemicool.com/images/periodic-table.png 400 %}
  
 
 Our standard graphic for the standard model builds on this tabular
@@ -28,15 +28,14 @@ problems for communicating with the public
 
  
 
-[![standardmodel standard][]][]
-
+{% img images/standardmodel-standard.jpg 300 %}
  
 
 It seems easy enough to add the Higgs to this table, but there seems no
 agreement on where to put it as you can see from [Google's image
 search][].
 
-[![SM-confusion][]][]
+{% img images/SM-confusion.jpg 300 %}
 
 From a physicists point of view there are some other problems that
 actually harm those starting to learn the standard model for real
@@ -56,14 +55,12 @@ screening of [Particle Fever][].  It's a great film that humanizes
 fundamental particle physics in an emotional, funny, and romantic way.
  It also has some great graphics.  One of my favorite parts was this new
 way of representing the fundamental particles.  David Kaplan sent me
-this mockup, that it looks like he made in Keynote, and I  had my own go
+[this mockup]({filename}images/Standard-Model.jpg), that it looks like he made in Keynote, and I  had my own go
 at it with some different fonts.
 
  
 
-[![][]][]  
-[![Particle Fever Standard Model Graphic][]][]
-
+{% img images/Particle-Fever-Standard-Model-Graphic.png 400%}
  
 
 Here's what I like about it
@@ -101,14 +98,14 @@ supersymmetric friends.
   [Mendeleev's original]: http://www.rsc.org/education/teachers/resources/periodictable/pre16/develop/mendeleev.htm
   [The periodic table]: http://www.chemicool.com/images/periodic-table.png
   [standardmodel standard]: http://theoryandpractice.org/wp-content/uploads/2013/08/standardmodel-standard-242x300.jpg
-  [![standardmodel standard][]]: http://theoryandpractice.org/wp-content/uploads/2013/08/standardmodel-standard.jpg
   [Google's image search]: http://images.google.com/search?tbm=isch&q=standard+model
-  [SM-confusion]: http://theoryandpractice.org/wp-content/uploads/2013/08/SM-confusion-300x52.jpg
-  [![SM-confusion][]]: http://theoryandpractice.org/wp-content/uploads/2013/08/SM-confusion.jpg
   [Sheffield Documentary Film Festival]: http://sheffdocfest.com
   [Particle Fever]: http://www.particlefever.com/PF/
+  [Penrose tiling]: http://en.wikipedia.org/wiki/Penrose_tiling
+
+<!--
+  [![SM-confusion][]]: http://theoryandpractice.org/wp-content/uploads/2013/08/SM-confusion.jpg
   []: http://theoryandpractice.org/wp-content/uploads/2013/08/Standard-Model-300x183.jpg
   [![][]]: http://theoryandpractice.org/wp-content/uploads/2013/08/Standard-Model.jpg
-  [Particle Fever Standard Model Graphic]: http://theoryandpractice.org/wp-content/uploads/2013/08/Particle-Fever-Standard-Model-Graphic-300x225.png
-  [![Particle Fever Standard Model Graphic][]]: http://theoryandpractice.org/wp-content/uploads/2013/08/Particle-Fever-Standard-Model-Graphic.png
-  [Penrose tiling]: http://en.wikipedia.org/wiki/Penrose_tiling
+  [![Particle Fever Standard Model Graphic][]]: http://theoryandpractice.org/wp-    [![standardmodel standard][]]: http://theoryandpractice.org/wp-content/uploads/2013/08/standardmodel-standard.jpg
+-->

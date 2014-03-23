@@ -2,6 +2,7 @@ Title: Inspired by the Higgs, a step forward in open access
 Date: 2013-09-13 13:31
 Author: cranmer
 Category: Blog
+Tags: higgs, physics, open science
 Slug: inspired-by-the-higgs-a-step-forward-in-open-access
 
 [originally posted on [Quantum Diaries][]]
@@ -24,16 +25,7 @@ operates in the fast-evolving world of open access to data. These steps
 are a culmination of decades of work, so allow me to elaborate.
 
  
-
-[caption id="attachment\_31046" align="aligncenter" width="394"][![Four
-interactions that can produced a Higgs boson at the LHC][]][Four
-interactions that can produced a Higgs boson at the LHC] Four
-interactions that can produced a Higgs boson at the LHC[/caption]
-
-[caption id="attachment\_31044" align="alignright" width="300"][![Higgs
-production and decay measured by ATLAS.][]][] Higgs production and decay
-measured by ATLAS.[/caption]
-
+{% img //www.quantumdiaries.org/wp-content/uploads/2013/09/Higgs-production-horizontal.png 500  "Four interactions that can produced a Higgs boson at the LHC" %}
  
 
 First of all, what are the three key measurements, and why are they
@@ -46,6 +38,9 @@ particles (photons, W, and Z bosons). In this plot, the black + sign at
 contours represent the measurements performed by ATLAS. These
 measurements are fundamental tests of the standard model and any
 deviation could be a sign of new physics like supersymmetry!
+
+{% img //www.quantumdiaries.org/wp-content/uploads/2013/09/fig_07.png 400 "Higgs production and decay measured by ATLAS." %}
+
 
 Ok, so what is the likelihood function, and why is it useful? Here maybe
 it is best to give a little bit of history. In 2000, [the first in a
@@ -84,11 +79,7 @@ and experimentalists, singled out the likelihood associated to the plot
 above as the most useful way of communicating information about the
 Higgs properties.
 
-[caption id="attachment\_31060" align="alignleft" width="300"][![An
-overlay of the original ATLAS result (filled contours) and those
-reproduced from the official ATLAS likelihood functions.][]][] An
-overlay of the original ATLAS result (filled contours) and those
-reproduced from the official ATLAS likelihood functions.[/caption]
+{% img //www.quantumdiaries.org/wp-content/uploads/2013/09/Test-kVkF-contours.png 400  "An overlay of the original ATLAS result (filled contours) and those reproduced from the official ATLAS likelihood functions." %}
 
 The reason that these specific Higgs plots are so useful is that more
 specific tests of the standard model can be derived from them. For
@@ -132,7 +123,7 @@ So now for the fun part, you can go over to the INSPIRE record for the
 recent Higgs paper (<http://inspirehep.net/record/1241574>) and you will
 see this:
 
-[![The INSPIRE record for the recent ATLAS Higgs paper.][]][]
+{% img //www.quantumdiaries.org/wp-content/uploads/2013/09/Inspire-record-higgs.png 600 "The INSPIRE record for the recent ATLAS Higgs paper." %}
 
 If you click on [HepData tab][] at the top it will take you to a list of
 data associated to this paper. Each of the three entries has a DOI
@@ -144,9 +135,8 @@ is now working so that your author profile will not only include all of
 your papers, but also the data sets that you are associated with (here's
 an[example][1] in it's early form based on [my ORCID ID][]).
 
-[caption id="attachment\_31070" align="alignnone" width="491"][![The
-H→γγ likelihood function.][]][] The INSPIRE record for the H→γγ
-likelihood function[/caption]
+
+{% img //www.quantumdiaries.org/wp-content/uploads/2013/09/INSPIRE-H-gamgam.png 600 "The H to two photon likelihood function." %}
 
 Now it's time for me and my co-authors to update our paper ["On the
 presentation of LHC Higgs results"][] to cite this data. And next week,
@@ -161,32 +151,20 @@ of high energy physics and a step forward in the global analysis of the
 Higgs boson discovered at the LHC!
 
   [Quantum Diaries]: http://www.quantumdiaries.org/2013/09/12/inspired-by-the-higgs-a-step-forward-in-open-access/
-  [Four interactions that can produced a Higgs boson at the LHC]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/Higgs-production-horizontal.png
-  [Higgs production and decay measured by ATLAS.]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/fig_07-300x215.png
-  [![Higgs production and decay measured by ATLAS.][]]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/fig_07.png
   [this recent paper]: http://inspirehep.net/record/1241574
   [the first in a series of workshops]: https://cds.cern.ch/record/411537?ln=en
   [very complicated likelihood functions]: http://blogs.discovermagazine.com/cosmicvariance/2011/12/08/making-the-higgs-sausage/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+CosmicVariance+%28Cosmic+Variance%29#.UjCw8RYZ6uA
-  [a conference devoted to the topic of publishing likleihood
-  functions]: http://indico.cern.ch/conferenceDisplay.py?confId=218693%20
+  [a conference devoted to the topic of publishing likleihood functions]: http://indico.cern.ch/conferenceDisplay.py?confId=218693%20
   ["On the presentation of LHC Higgs results"]: http://inspirehep.net/record/1244142%20
-  [An overlay of the original ATLAS result (filled contours) and those
-  reproduced from the official ATLAS likelihood functions.]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/Test-kVkF-contours-300x217.png
-  [![An overlay of the original ATLAS result (filled contours) and those
-  reproduced from the official ATLAS likelihood functions.][]]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/Test-kVkF-contours.png
   [birthplace for the world wide web]: http://home.web.cern.ch/about/birth-web
   [vision for open access]: http://library.web.cern.ch/oa/policy
   [HepData]: http://hepdata.cedar.ac.uk
   [INSPIRE]: http://inspirehep.net/
   [example]: http://inspirehep.net/record/1228693/hepdata
   [Digital Object Identifier]: http://www.doi.org
-  [The INSPIRE record for the recent ATLAS Higgs paper.]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/Inspire-record-higgs-1024x133.png
-  [![The INSPIRE record for the recent ATLAS Higgs paper.][]]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/Inspire-record-higgs.png
   [HepData tab]: http://inspirehep.net/record/1241574/hepdata
   [10.7484/INSPIREHEP.DATA.A78C.HK44]: http://doi.org/10.7484/INSPIREHEP.DATA.A78C.HK44
   [cited]: http://inspirehep.net/record/1253646/export/hx
   [1]: https://inspirehep.net/search?ln=en&cc=Data&p=100%3A+0000-0002-5769-7094&action_search=Search
   [my ORCID ID]: http://orcid.org/0000-0002-5769-7094
-  [The H→γγ likelihood function.]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/INSPIRE-H-gamgam-1024x428.png
-  [![The H→γγ likelihood function.][]]: http://www.quantumdiaries.org/wp-content/uploads/2013/09/INSPIRE-H-gamgam.png
   [keynote presentation]: http://datacite.eventbrite.co.uk

@@ -5,16 +5,13 @@ Category: Blog
 Tags: Data, python, Statistics
 Slug: visualizing-information-geometry-with-multidimensional-scaling
 
+
 This weekend's project was a fun one!  
-See my  
-[  
-iPython notebook on Visualizing information geometry with
-multidimensional scaling][]
+See my [iPython notebook on Visualizing information geometry with
+multidimensional scaling](http://nbviewer.ipython.org/github/cranmer/play/blob/master/manifoldLearning/GaussianInformationGeometryEmbedding.ipynb) -- note to self, update link to github.io
 
-For convenience, embedded below
+For convenience, embedded below (using the pelican liquid notebook plugin)
 
-<iframe width="100%" height="500" src="http://nbviewer.ipython.org/github/cranmer/play/blob/master/manifoldLearning/GaussianInformationGeometryEmbedding.ipynb"></iframe>
+- - - 
 
-  [  
-  iPython notebook on Visualizing information geometry with
-  multidimensional scaling]: http://nbviewer.ipython.org/github/cranmer/play/blob/master/manifoldLearning/GaussianInformationGeometryEmbedding.ipynb
+{% notebook GaussianInformationGeometryEmbedding.ipynb %}

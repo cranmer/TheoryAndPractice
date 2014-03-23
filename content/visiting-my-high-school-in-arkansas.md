@@ -27,8 +27,8 @@ included a map showing this rural state in the southern part of the US.
 <iframe src="https://www.google.com/maps?sll=34.49240086355438,-93.0573922516262&amp;sspn=0.24536292995578443,0.41929959351837387&amp;t=m&amp;q=Arkansas+School+for+Mathematics+&amp;dg=opt&amp;ie=UTF8&amp;hq=Arkansas+School+for+Mathematics&amp;hnear=&amp;ll=34.517915,-93.058193&amp;spn=32.34113,52.514503&amp;output=embed" height="350" width="425" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>  
 <small>[View Larger Map][]</small>
 
-[![Kyle Cranmer with Bill Clinton in Arkansas Governor's office in
-1991.][]][]
+
+{% img //www.quantumdiaries.org/wp-content/uploads/2013/08/2133427453_aa9abffc68_b.jpg 300  "Kyle Cranmer with Bill Clinton in Arkansas Governor's office in 1991." %}
 
 The school has an interesting history, it was created in 1991 by an act
 of the Arkansas Legislature.  Bill Clinton was Governor of Arkansas at
@@ -84,10 +84,6 @@ boson.
   [desegregation]: http://en.wikipedia.org/wiki/Little_Rock_Nine
   [doing better in the educational rankings]: http://www.edweek.org/ew/articles/2013/01/10/16sos.h32.html?tkn=RLRF%2B4mUV1fjxGZAPk7Od%2FfW1p2K2SFHTAx9&cmp=clp-edweek&intc=EW-QC13-EWH
   [View Larger Map]: https://www.google.com/maps?sll=34.49240086355438,-93.0573922516262&sspn=0.24536292995578443,0.41929959351837387&t=m&q=Arkansas+School+for+Mathematics+&dg=opt&ie=UTF8&hq=Arkansas+School+for+Mathematics&hnear=&ll=34.517915,-93.058193&spn=32.34113,52.514503&source=embed
-  [Kyle Cranmer with Bill Clinton in Arkansas Governor's office in
-  1991.]: http://www.quantumdiaries.org/wp-content/uploads/2013/08/2133427453_aa9abffc68_b-199x300.jpg
-  [![Kyle Cranmer with Bill Clinton in Arkansas Governor's office in
-  1991.][]]: http://www.quantumdiaries.org/wp-content/uploads/2013/08/2133427453_aa9abffc68_b.jpg
   [North Carolina School of Science and Mathematics]: %20http://en.wikipedia.org/wiki/North_Carolina_School_of_Science_and_Mathematics
   [Illinois Mathematics and Science Academy]: http://en.wikipedia.org/wiki/Illinois_Mathematics_and_Science_Academy#History
   [Leon Lederman]: http://en.wikipedia.org/wiki/Leon_M._Lederman

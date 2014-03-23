@@ -2,7 +2,8 @@ Title: RooFit statistical modeling language demo in an iPython notebook
 Date: 2014-03-04 21:01
 Author: cranmer
 Category: Blog
-Slug: roofit-statistical-modeling-language-in-ipython-notebook%c2%b6
+Tags: Data, python, Statistics
+Slug: roofit-statistical-modeling-language-in-ipython-notebook
 
 Particle physicisits primarily use [ROOT][] for the data analysis
 framework. Part of that framework is a package
@@ -19,9 +20,11 @@ style="line-height: 1.5em;"> to create a statistical model, generate
 some simulated data, fit that data, create the profile likelihood, and
 provide a covariance matrix from the likelihood fit.  Enjoy!</span>
 
+For convenience, here it is embeded
+- - - 
+{% notebook BasicRooFitExample.ipynb %}
+
   [ROOT]: http://root.cern.ch/
   [RooFit]: http://root.cern.ch/drupal/content/users-guide#roofit
   [RooStats]: https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome
   [statistical models get pretty complicated]: http://blogs.discovermagazine.com/cosmicvariance/2011/12/08/making-the-higgs-sausage/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+CosmicVariance+%28Cosmic+Variance%29#.UxFW0NyrvlI
-  [a little iPython notebook to demonstrate a simple example of RooFit's
-  ability]: http://nbviewer.ipython.org/github/cranmer/play/blob/master/iPythonROOT/BasicRooFitExample.ipynb

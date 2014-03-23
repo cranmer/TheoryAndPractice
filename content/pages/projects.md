@@ -20,12 +20,8 @@ Pointers to some projects
 -   [EventView][] an analysis framework used widely inside ATLAS in the
     early days
 
-[![Fork me on GitHub][]][]
-
   [RooStats]: https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome
   [RECAST]: http://recast.perimeterinstitute.ca
   [INSPIRE]: http://inspirehep.net/
   [UnicodeIt]: http://www.svenkreiss.com/UnicodeIt
   [EventView]: https://cds.cern.ch/record/1057144
-  [Fork me on GitHub]: https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png
-  [![Fork me on GitHub][]]: https://github.com/cranmer
