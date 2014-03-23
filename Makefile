@@ -23,6 +23,9 @@ CLOUDFILES_USERNAME=my_rackspace_username
 CLOUDFILES_API_KEY=my_rackspace_api_key
 CLOUDFILES_CONTAINER=my_cloudfiles_container
 
+DEPLOYREPOSITORY=cranmer.github.io
+
+
 DROPBOX_DIR=~/Dropbox/Public/
 
 DEBUG ?= 0
@@ -102,7 +105,23 @@ cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
-	ghp-import $(OUTPUTDIR)
-	git push origin gh-pages
+	ghp-import $(OUTPUTDIR) 
+	#git push origin gh-pages
+	git push git@github.com:cranmer/cranmer.github.io.git gh-pages:master
+
+
+deploy: publish
+	if test -d _build; \
+	then echo " (_build directory exists)"; \
+	else mkdir _build; \
+	fi
+	if test -d _build/$(DEPLOYREPOSITORY); \
+	then echo "  (repository directory exists)"; \
+	else cd _build && git clone git@github.com:cranmer/$(DEPLOYREPOSITORY).git; \
+	fi
+	cd _build/$(DEPLOYREPOSITORY) && git pull
+	rsync -r $(OUTPUTDIR)/* _build/$(DEPLOYREPOSITORY)/
+	cd _build/$(DEPLOYREPOSITORY) && git add . && git commit -m "make deploy"
+	cd _build/$(DEPLOYREPOSITORY) && git push origin master
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github

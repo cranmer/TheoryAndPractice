@@ -65,7 +65,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.literal']
 
 THEME = 'pelican-bootstrap3'
-#THEME = 'notmyidea'
+THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
 #THEME = '../pelican-bootstrap3'
@@ -81,6 +81,6 @@ PYGMENTS_STYLE='default'
 #the deault _nb_header is changing 
 #fonts etc. of rest of notmyidea and pelican-bootstrap3 themes
 #looks ok in notmyidea, but no style at all in bootstrap3
-#EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
-EXTRA_HEADER = '' #need to flush
+EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
+#EXTRA_HEADER = '' #need to flush
 
