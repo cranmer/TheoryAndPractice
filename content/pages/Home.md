@@ -32,14 +32,19 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
 
 <br clear="all" />
 
+<a class="twitter-timeline" href="https://twitter.com/KyleCranmer" data-widget-id="353505377641447424">Tweets by @KyleCranmer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+<!--
+</div>
+-->
 
+<!--
 <div style="float:left;padding:15px; width:50%">
 <a class="twitter-timeline" href="https://twitter.com/KyleCranmer" data-widget-id="353505377641447424">Tweets by @KyleCranmer</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
 </div>
 
 <div style="float:right;">
-<!-- start feedwind code -->
 <script type="text/javascript">
 rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";
 rssmikle_frame_width="300";
@@ -80,6 +85,7 @@ rssmikle_item_podcast="off";
 <a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
 </div>
 </div>
+-->
 
 
 <!--
