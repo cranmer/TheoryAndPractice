@@ -2,7 +2,7 @@ Title: A D3 Test post using iframe
 Date: 2013-06-28 18:21
 Author: cranmer
 Category: Blog
-Tags: Data, Physics, Publishing, Statistics
+Tags: Data, Physics, Statistics
 Slug: a-d3-test-post-using-iframe
 
 A quick test of inserting an HTML file with some [D3 magic][] into a

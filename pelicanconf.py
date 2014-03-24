@@ -15,13 +15,14 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-#DISPLAY_PAGES_ON_MENU =False
-#MENUITEMS = (('Projects','/pages/projects.html'),)
+DISPLAY_PAGES_ON_MENU =False
+MENUITEMS = (('Home','index.html'),
+			('Research','/pages/Research.html'),
+			('Projects','/pages/projects.html'),
+			('Media & Outreach','/pages/in-the-news.html'),)
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
 		  ('Quantum Diaries', 'http://www.quantumdiaries.org/'),
 		  ('Me @ Quantum Diaries','http://www.quantumdiaries.org/author/kyle-cranmer/'),
 		  ('Not Even Wrong','http://www.math.columbia.edu/~woit/wordpress/'),

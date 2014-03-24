@@ -2,7 +2,7 @@ Title: Projects from July 2013
 Date: 2013-07-13 02:38
 Author: cranmer
 Category: Blog
-Tags: open science, physics, statistics
+Tags: open science, physics, statistics, Communication
 Slug: projects-from-july-2013
 
 Wow, perhaps this is my first real blog post since rebooting

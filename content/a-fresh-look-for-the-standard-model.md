@@ -2,7 +2,7 @@ Title: A fresh look for the standard model
 date: 2013-08-09 19:40
 Author: cranmer
 Category: Blog
-Tags: Physics, Science &amp; Society
+Tags: Physics, Communication
 Slug: a-fresh-look-for-the-standard-model
 
 Recently I've been more involved in communication, education, and
