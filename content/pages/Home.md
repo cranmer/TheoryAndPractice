@@ -32,9 +32,7 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
 
 <br clear="all" />
 
-
-
-
+<!-- using bootstrap3 grid layout here -->
 <div class="row">
   <div class="col-md-6">
   	<a class="twitter-timeline" href="https://twitter.com/KyleCranmer" data-widget-id="353505377641447424">Tweets by @KyleCranmer</a>

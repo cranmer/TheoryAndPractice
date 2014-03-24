@@ -24,15 +24,15 @@ MENUITEMS = (('Home','index.html'),
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
 		  ('Quantum Diaries', 'http://www.quantumdiaries.org/'),
-		  ('Me @ Quantum Diaries','http://www.quantumdiaries.org/author/kyle-cranmer/'),
+#		  #('Me @ Quantum Diaries','http://www.quantumdiaries.org/author/kyle-cranmer/'),
 		  ('Not Even Wrong','http://www.math.columbia.edu/~woit/wordpress/'),
 		  ('Cocktail Party Physics','http://twistedphysics.typepad.com/cocktail_party_physics/'),
 		  ('Résonaances','http://resonaances.blogspot.com/'),
 		  ('Matt Strassler','http://profmattstrassler.com/'),
-		  ('Life as a physicist','http://gordonwatts.wordpress.com/'),
+#		  #('Life as a physicist','http://gordonwatts.wordpress.com/'),
 		  ('Tommaso Dorigo','http://www.science20.com/physics'),
-		  ('Cosmic Variance','http://blogs.discovermagazine.com/cosmicvariance/'),
-		  ('Collider Blog','http://muon.wordpress.com/'),
+#		  #('Cosmic Variance','http://blogs.discovermagazine.com/cosmicvariance/'),
+#		  #('Collider Blog','http://muon.wordpress.com/'),
 		  ('Symmetry Breaking','http://www.symmetrymagazine.org/breaking'),
 		  ('INSPIRE','http://blog.inspirehep.net/'),
 		  ('Data Pub','http://datapub.cdlib.org/'),
@@ -82,6 +82,6 @@ PYGMENTS_STYLE='default'
 #the deault _nb_header is changing 
 #fonts etc. of rest of notmyidea and pelican-bootstrap3 themes
 #looks ok in notmyidea, but no style at all in bootstrap3
-EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
+EXTRA_HEADER = open('_nb_header_minimal.html').read().decode('utf-8')
 #EXTRA_HEADER = '' #need to flush
 

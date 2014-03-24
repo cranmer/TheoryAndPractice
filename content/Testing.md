@@ -24,9 +24,15 @@ Testing:
 
 Notes on getting notebook to work
 
-- ipython command line worked, but import IPython wasn't working. Was a virtualenv issue, did a pip install (very fast) and all good now. 
+- IPython command line worked, but import IPython wasn't working. Was a virtualenv issue, did a pip install (very fast) and all good now. 
 - Adding the EXTRA_HEADER doesn't work until the _nb_header.html is generated. If there is no check for the file, the devserver has problems. 
 - I wasn't sure where to put the {% literal if EXTRA_HEADER %} code, but found that it should go in themes/base.html. Unfortunately, the _nb_header isn't playing well with the pelican-bootstrap3 theme... the notebook is styled, but the menu, buttons, and headers of the rest of the page are modified.
+- ok, made _nb_header_minimal only taking the last ~113 lines that have the script to call mathjax on the notebook (else the math doesn't render for the imported notebook) and the highlight style. That gives me the basics to make the notebook look reasonable.
+
+Notes on themes
+
+- see note above about where to stick the EXTRA_HEADER for the IPython notebok.
+- using Bootstrap3 to get the twitter  and recent publication feeds to have a nice responsive layout on homepage
 
 
 {% literal notebook Spirograph3d.ipynb cells[1:9] %}
