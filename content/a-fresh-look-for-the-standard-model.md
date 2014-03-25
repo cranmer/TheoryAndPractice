@@ -28,14 +28,14 @@ problems for communicating with the public
 
  
 
-{% img images/standardmodel-standard.jpg 300 %}
+{% img /images/standardmodel-standard.jpg 300 %}
  
 
 It seems easy enough to add the Higgs to this table, but there seems no
 agreement on where to put it as you can see from [Google's image
 search][].
 
-{% img images/SM-confusion.jpg 300 %}
+{% img /images/SM-confusion.jpg 300 %}
 
 From a physicists point of view there are some other problems that
 actually harm those starting to learn the standard model for real
@@ -60,7 +60,7 @@ at it with some different fonts.
 
  
 
-{% img images/Particle-Fever-Standard-Model-Graphic.png 400%}
+{% img /images/Particle-Fever-Standard-Model-Graphic.png 400%}
  
 
 Here's what I like about it

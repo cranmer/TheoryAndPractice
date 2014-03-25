@@ -70,7 +70,6 @@ the data layer and the need for a robust information system.  Looking to
 the future, we can imagine an extended author profile that includes
 details on datasets analogous to what we are already have with papers.
 
-</div>
 
   [here.]: http://blog.inspirehep.net/2013/10/enabling-data-sharing-citation-and.html
   [HepData]: http://hepdata.cedar.ac.uk/

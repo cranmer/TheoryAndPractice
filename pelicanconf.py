@@ -16,7 +16,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
-MENUITEMS = (('Home','index.html'),
+MENUITEMS = (
+#			('Home','index.html'),
 			('Research','/pages/Research.html'),
 			('Projects','/pages/projects.html'),
 			('Media & Outreach','/pages/in-the-news.html'),)
@@ -43,11 +44,18 @@ SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('github', 'http://github.com/cranmer'),
           ('linkedin','http://www.linkedin.com/in/kylecranmer'),
           ('google+','https://plus.google.com/106689822196584540592/posts'),
-          ('flickr','http://www.flickr.com/photos/hoonynoo/'),)
+          ('youtube','http://youtube.com/user/cranmer'),
+          ('flickr','http://www.flickr.com/photos/hoonynoo/'),
+          ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'))
 
 CC_LICENSE="CC-BY"
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 6
+
+#use URLs that match old wordpress site
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -73,6 +81,23 @@ PYGMENTS_STYLE='default'
 #THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-bootstrap3'
 # This requires Pelican 3.3+
 
+#For pelican-ootstrap3
+BOOTSTRAP_THEME='simplex'
+BOOTSTRAP_THEME='yeti'
+BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
+BOOTSTRAP_THEME='cosmo'
+DISPLAY_BREADCRUMBS=False
+DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
+#ABOUT_ME="I'm a professor at NYU interested in particle physics, open science, data science, and science communication to the broader public."
+#AVATAR='/images/kyle-andys-party-miras-photo.jpg'
+#AVATAR=None
+#ABOUT_ME=None
+#TWITTER_WIDGET_ID='353505377641447424'
+TWITTER_WIDGET_ID=''
+#GITHUB_USER='cranmer'
+#GITHUB_REPO_COUNT=True
+#GITHUB_SKIP_FORK=True
+#GITHUB_SHOW_USER_LINK=True
 
 
 

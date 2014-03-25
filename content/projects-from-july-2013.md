@@ -26,14 +26,13 @@ likelihoods (slices of Higgs likelihoods in thousands of dimensions).
 It's amazing how the model independent (cross-section)\_i x (branching
 ratio)\_j contours (for i={VBF+WH, ggF+ttH} and j={WW, ZZ, γγ})
 
-[caption id="" align="aligncenter" width="567"]![][] model independent
-presentation of Higgs couplings[/caption]
+{% img //inspirehep.net/record/1241574/files/MuTMuW_comb_ggwwllll.png 400 "model independent presentation of Higgs couplings" %}
+
 
 are sufficient statistics for for a number of benchmark-model coupling
 measurements (eg. kV-kF, kg-kγ, λ\_WZ, etc.)
 
-[caption id="" align="aligncenter" width="567"]![][1] Model-dependent
-coupling fits.[/caption]
+{% img //inspirehep.net/record/1241574/files/Model_CVCF_2D_CVCF_color_overlay.png 400 "Model-dependent coupling fits." %}
 
 In addition, I just finished  the process of uploading data from
 a [phenomenology paper I worked on a few years ago][] where we did a big
@@ -58,7 +57,7 @@ Forecasts"", [hdl:1902.1/21804][] UNF:5:bvw2MoOATltX0yfGjF9hJQ== V1
 If you go to it and click on one of the TabularData entries you can even
 do some minimal analysis from the web. Like this
 
-[![KISMET scan][]][]
+![KISMET scan][]
 
 I wish they would give me a little gist-style embed like this one:
 
@@ -83,4 +82,3 @@ INSPIRE record][phenomenology paper I worked on a few years ago] soon.
   [Harvard Dataverse Network]: http://thedata.org
   [hdl:1902.1/21804]: http://hdl.handle.net/1902.1/21804
   [KISMET scan]: http://theoryandpractice.org/wp-content/uploads/2013/07/KISMET-scan-300x187.png
-  [![KISMET scan][]]: http://theoryandpractice.org/wp-content/uploads/2013/07/KISMET-scan.png

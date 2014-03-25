@@ -3,6 +3,8 @@ Date: 2014-01-28 16:34
 Author: cranmer
 Slug: Research
 
+<!-- http://feed.mikle.com -->
+This section is under-development, but here's are my most recent papers on INSPIRE.
 <div>
 <script type="text/javascript">
 rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";
@@ -44,6 +46,8 @@ rssmikle_item_podcast="off";
 <a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
 </div>
 </div>
+<!--
+-->
 
 <br >
 

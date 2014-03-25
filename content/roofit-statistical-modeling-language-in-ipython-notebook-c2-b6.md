@@ -1,4 +1,4 @@
-Title: RooFit statistical modeling language demo in an iPython notebook
+Title: RooFit statistical modeling language demo in an IPython notebook
 Date: 2014-03-04 21:01
 Author: cranmer
 Category: Blog
@@ -14,7 +14,7 @@ frequentist and Bayesian paradigms based on statistical models made with
 RooFit. These are the tools that were used to claim the discover the
 Higgs boson, and those [statistical models get pretty complicated][].
 
-<span style="line-height: 1.5em;">I created</span>[a little iPython
+<span style="line-height: 1.5em;">I created</span>[a little IPython
 notebook to demonstrate a simple example of RooFit's ability][]<span
 style="line-height: 1.5em;"> to create a statistical model, generate
 some simulated data, fit that data, create the profile likelihood, and
