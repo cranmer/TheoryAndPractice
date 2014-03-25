@@ -44,7 +44,7 @@ SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('github', 'http://github.com/cranmer'),
           ('linkedin','http://www.linkedin.com/in/kylecranmer'),
           ('google+','https://plus.google.com/106689822196584540592/posts'),
-          ('youtube','http://youtube.com/user/cranmer'),
+          ('youtube','https://www.youtube.com/channel/UCKl2VoIJiPYp3QhuK22b7xQ'),
           ('flickr','http://www.flickr.com/photos/hoonynoo/'),
           ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'),
           ('ImpactStory','http://impactstory.org/KyleCranmer'))
