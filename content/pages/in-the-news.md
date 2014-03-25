@@ -63,6 +63,12 @@ The USA Science & Engineering Festival
 --------------------------------------
 
 [Photos](http://www.flickr.com/photos/hoonynoo/sets/72157638481017703/)
+<style type="text/css"> 
+.flickr_badge_image {margin:0px;display:inline;}
+.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:420px;text-align:left}
+</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&display=latest&size=s&layout=x&source=user_set&set=72157638481017703"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+
 
 The Leonard Lopate Show
 -----------------------

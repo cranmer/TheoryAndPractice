@@ -41,11 +41,11 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
   <div class="col-md-6">
 		  	<script type="text/javascript">
 		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";
-		rssmikle_frame_width="300";
+		rssmikle_frame_width="100%";
 		rssmikle_frame_height="400";
 		rssmikle_target="_blank";
-		rssmikle_font="Arial, Helvetica, sans-serif";
-		rssmikle_font_size="12";
+		rssmikle_font="Verdana, fontawesome-webfont,Arial, Helvetica, sans-serif";
+		rssmikle_font_size="11";
 		rssmikle_border="on";
 		responsive="on";
 		rssmikle_css_url="";
@@ -57,12 +57,12 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
 		rssmikle_title="on";
 		rssmikle_title_sentence="Recent Publications";
 		rssmikle_title_link="http://inspirehep.net/?p=a%3AK.S.Cranmer.1";
-		rssmikle_title_bgcolor="#0066FF";
+		rssmikle_title_bgcolor="#000000";
 		rssmikle_title_color="#FFFFFF";
 		rssmikle_title_bgimage="http://";
 		rssmikle_item_bgcolor="#FFFFFF";
 		rssmikle_item_bgimage="http://";
-		rssmikle_item_title_length="55";
+		rssmikle_item_title_length="200";
 		rssmikle_item_title_color="#666666";
 		rssmikle_item_border_bottom="on";
 		rssmikle_item_description="off";

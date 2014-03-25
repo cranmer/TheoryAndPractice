@@ -17,7 +17,7 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-#			('Home','index.html'),
+#			('About','/index.html'),
 			('Research','/pages/Research.html'),
 			('Projects','/pages/projects.html'),
 			('Media & Outreach','/pages/in-the-news.html'),)
@@ -46,7 +46,8 @@ SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('google+','https://plus.google.com/106689822196584540592/posts'),
           ('youtube','http://youtube.com/user/cranmer'),
           ('flickr','http://www.flickr.com/photos/hoonynoo/'),
-          ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'))
+          ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'),
+          ('ImactStory','http://impactstory.org/KyleCranmer'))
 
 CC_LICENSE="CC-BY"
 
@@ -90,8 +91,8 @@ DISPLAY_BREADCRUMBS=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 #ABOUT_ME="I'm a professor at NYU interested in particle physics, open science, data science, and science communication to the broader public."
 #AVATAR='/images/kyle-andys-party-miras-photo.jpg'
-#AVATAR=None
-#ABOUT_ME=None
+AVATAR=None
+ABOUT_ME=None
 #TWITTER_WIDGET_ID='353505377641447424'
 TWITTER_WIDGET_ID=''
 #GITHUB_USER='cranmer'
