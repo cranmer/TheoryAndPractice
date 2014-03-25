@@ -85,6 +85,8 @@ So far so good, now let's try to embed the end of the notebook that has the anim
 
 Animation looks good, but doesn't seem to work on my phone. 
 
+_Many thanks to my lovely wife Danielle for putting up with me this weekend while my daughter refused to nap!_
+
 
 <!--
 
