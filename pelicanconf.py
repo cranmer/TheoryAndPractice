@@ -47,7 +47,7 @@ SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('youtube','http://youtube.com/user/cranmer'),
           ('flickr','http://www.flickr.com/photos/hoonynoo/'),
           ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'),
-          ('ImactStory','http://impactstory.org/KyleCranmer'))
+          ('ImpactStory','http://impactstory.org/KyleCranmer'))
 
 CC_LICENSE="CC-BY"
 
