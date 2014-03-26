@@ -44,7 +44,7 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
 		rssmikle_frame_width="100%";
 		rssmikle_frame_height="400";
 		rssmikle_target="_blank";
-		rssmikle_font="Verdana, fontawesome-webfont,Arial, Helvetica, sans-serif";
+		rssmikle_font="Open Sans,Calibri,Candara,Arial,sans-serif";
 		rssmikle_font_size="11";
 		rssmikle_border="on";
 		responsive="on";
