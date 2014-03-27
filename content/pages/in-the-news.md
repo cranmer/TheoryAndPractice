@@ -6,31 +6,32 @@ Slug: in-the-news
 Below are a collection of videos, pod casts, and news excerpts from my
 work.
 
-**TEDx**
+TEDx
 --------
 <!-- 
-{% youtube Pv_DtHuj5Ds %} 
 -->
-
-<iframe src="//www.youtube.com/embed/Pv_DtHuj5Ds" height="315" width="560" allowfullscreen frameborder="0"></iframe>
----------------------------------------------------------------------------------------------------------------------
+	<iframe src="//www.youtube.com/embed/Pv_DtHuj5Ds" allowfullscreen frameborder="0"></iframe>
 
  
 
 Higgs Boson: A Natural Disaster!
 --------------------------------
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/2KJc8w7BonM" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="//www.youtube.com/embed/2KJc8w7BonM" frameborder="0" allowfullscreen></iframe> -->
+<iframe  src="//www.youtube.com/embed/2KJc8w7BonM" frameborder="0" allowfullscreen></iframe>
 
 "My Story in the Higgs Discovery" Physics Slam on Ice
 -----------------------------------------------------
 
+<iframe  src="http://www.youtube.com/embed/b1q46oeuG4Q?start=3158;feature=oembed" frameborder="0" allowfullscreen></iframe>
+
+<!--<iframe width="550" height="309" src="http://www.youtube.com/embed/b1q46oeuG4Q?start=3158;feature=oembed" frameborder="0" allowfullscreen></iframe>
+-->
   
 <!--
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=b1q46oeuG4Q\&feature=youtu.be\&t=52m32s" frameborder="0" allowfullscreen></iframe>
 -->
 
-<iframe width="550" height="309" src="http://www.youtube.com/embed/b1q46oeuG4Q?start=3158;feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 <!--<iframe width="550" height="309" src="http://www.youtube.com/embed/b1q46oeuG4Q?start=3158;feature=oembed" frameborder="0" allowfullscreen></iframe>-->  
 <!-- http://www.youtube.com/watch?v=b1q46oeuG4Q#t=3158-->  
@@ -40,12 +41,16 @@ Higgs Boson: A Natural Disaster!
 Science Nation
 --------------
 
-<iframe src="//www.youtube.com/embed/d5df1NVkYuQ" width="550" height="309" allowfullscreen frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/d5df1NVkYuQ" allowfullscreen frameborder="0"></iframe>
+
+<!--<iframe src="//www.youtube.com/embed/d5df1NVkYuQ" width="550" height="309" allowfullscreen frameborder="0"></iframe>-->
 
 CUNY Institute for Theoretical Sciences: The Higgs Boson
 --------------------------------------------------------
 
-<iframe src="http://fora.tv/embed?id=17114&amp;type=c" width="400" height="225" frameborder="0" scrolling="no" webkitallowfullscreen allowfullscreen></iframe>
+<!--<iframe src="http://fora.tv/embed?id=17114&amp;type=c" width="400" height="225" frameborder="0" scrolling="no" webkitallowfullscreen allowfullscreen></iframe>-->
+
+<iframe src="http://fora.tv/embed?id=17114&amp;type=c" frameborder="0" scrolling="no" webkitallowfullscreen allowfullscreen></iframe>
 
 StarTalk With Neil deGrasse Tyson
 ---------------------------------
@@ -55,9 +60,15 @@ Vowell on Neil deGrasse Tyson's StarTalk Live for a special episode
 dedicated to the Higgs discovery. Voted fan favorite for 2012. [Part
 1] and [Part 2]
 
-{% img http://www.startalkradio.net/wp-content/uploads/2012/11/Particle-Party-Backstage-Group-Shot1.jpg 550  %}
+{% img http://www.startalkradio.net/wp-content/uploads/2012/11/Particle-Party-Backstage-Group-Shot1.jpg 400  %}
 
-   
+<style type="text/css"> 
+.flickr_badge_image {margin:0px;display:inline;}
+.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:420px;text-align:left}
+</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=x&source=user_set&set=72157630549481992"></script></div>
+
+<!--https://www.flickr.com/photos/12094908@N07/sets/72157630549481992/-->
 
 The USA Science & Engineering Festival
 --------------------------------------
@@ -67,7 +78,7 @@ The USA Science & Engineering Festival
 .flickr_badge_image {margin:0px;display:inline;}
 .flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
 #flickr_badge_wrapper {width:420px;text-align:left}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&display=latest&size=s&layout=x&source=user_set&set=72157638481017703"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=s&layout=x&source=user_set&set=72157638481017703"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
 
 
 The Leonard Lopate Show
@@ -81,12 +92,19 @@ The Leonard Lopate Show
 SpaceLab - Ask an expert
 ------------------------
 
+<iframe src="//www.youtube.com/embed/DpuVrTWulv0" allowfullscreen frameborder="0"></iframe>
+
+<!--
 <iframe src="//www.youtube.com/embed/DpuVrTWulv0" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+-->
 
 SpaceLab - The Higgs Sound
 --------------------------
 
+<iframe src="//www.youtube.com/embed/EwYmtFcg4Wk"  allowfullscreen frameborder="0"></iframe>
+<!--
 <iframe src="//www.youtube.com/embed/EwYmtFcg4Wk" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+-->
 
 Charlie Rose
 ------------
