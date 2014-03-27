@@ -17,7 +17,7 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-#			('About','/index.html'),
+			('About','/index.html'),
 			('Research','/pages/Research.html'),
 			('Projects','/pages/projects.html'),
 			('Media & Outreach','/pages/in-the-news.html'),)

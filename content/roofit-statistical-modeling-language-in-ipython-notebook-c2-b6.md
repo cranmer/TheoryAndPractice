@@ -14,9 +14,7 @@ frequentist and Bayesian paradigms based on statistical models made with
 RooFit. These are the tools that were used to claim the discover the
 Higgs boson, and those [statistical models get pretty complicated][].
 
-<span style="line-height: 1.5em;">I created</span>[a little IPython
-notebook to demonstrate a simple example of RooFit's ability][]<span
-style="line-height: 1.5em;"> to create a statistical model, generate
+I created [a little IPython notebook](http://nbviewer.ipython.org/url/theoryandpractice.org/downloads/notebooks/BasicRooFitExample.ipynb?create=1) to demonstrate a simple example of RooFit's ability to create a statistical model, generate
 some simulated data, fit that data, create the profile likelihood, and
 provide a covariance matrix from the likelihood fit.  Enjoy!</span>
 
