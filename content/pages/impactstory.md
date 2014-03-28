@@ -20,7 +20,7 @@ Slug: Research
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div class="row">
 	<div  class="col-md-4">
-		Measurements of Higgs boson production and couplings in diboson final states with the ATLAS detector at the LHC
+		Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC
 	</div>
 	<div  class="col-md-8">
 		<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-altmetric-id="866623"></div>
