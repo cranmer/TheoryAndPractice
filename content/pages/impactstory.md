@@ -23,7 +23,7 @@ Slug: Research
 		Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC
 	</div>
 	<div  class="col-md-8">
-		<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-altmetric-id="866623"></div>
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="866623"></div>
 	</div>
 </div>
 
@@ -34,7 +34,7 @@ Slug: Research
 		10 Simple Rules for the Care and Feeding of Scientific Data
 	</div>
 	<div  class="col-md-8">
-		<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-altmetric-id="2033234"></div>
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="2033234"></div>
 	</div>
 </div>
 
@@ -45,7 +45,18 @@ Slug: Research
 		Measurements of Higgs boson production and couplings in diboson final states with the ATLAS detector at the LHC
 	</div>
 	<div  class="col-md-8">
-		<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi="10.1016/j.physletb.2013.08.010"></div>
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-doi="10.1016/j.physletb.2013.08.010"></div>
+	</div>
+</div>
+
+- - - 
+
+<div class="row">
+	<div  class="col-md-4">
+		Evidence for the spin-0 nature of the Higgs boson using ATLAS data
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="1802694"></div>
 	</div>
 </div>
 - - -
