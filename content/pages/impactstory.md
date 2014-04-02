@@ -68,7 +68,8 @@ Slug: Research
 <div class="row">
   <div class="col-md-12">
 		  	<script type="text/javascript">
-		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";
+		<!--		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";-->
+		rssmikle_url="http://feeds.feedburner.com/inspirehep/Lrwp";
 		rssmikle_frame_width="100%";
 		rssmikle_frame_height="600";
 		rssmikle_target="_blank";

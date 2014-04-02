@@ -65,7 +65,8 @@ DISQUS_SITENAME="theoryandpractice"
 
 ####################################################
 # Additions 
-STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks' 'favicon.png']
+STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks',
+                'downloads/files','downloads/code', 'favicon.png']
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'

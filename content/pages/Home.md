@@ -40,7 +40,8 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
   </div>
   <div class="col-md-6">
 		  	<script type="text/javascript">
-		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";
+		<!--		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";-->
+		rssmikle_url="http://feeds.feedburner.com/inspirehep/Lrwp";
 		rssmikle_frame_width="100%";
 		rssmikle_frame_height="400";
 		rssmikle_target="_blank";
