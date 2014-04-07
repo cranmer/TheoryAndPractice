@@ -17,5 +17,5 @@ And for good measure
 
  
 
-  [GraphSearchNSA]: http://theoryandpractice.org/wp-content/uploads/2013/07/GraphSearchNSA.png
+  [GraphSearchNSA]: http://wordpress.theoryandpractice.org/wp-content/uploads/2013/07/GraphSearchNSA.png
   []: http://i.imgur.com/XLQIsnH.gif
