@@ -38,6 +38,13 @@ Higgs Boson: A Natural Disaster!
 
 <!--http://www.youtube.com/watch?feature=player_embedded&v=b1q46oeuG4Q#t=3158-->
 
+
+Nifty Fifty
+--------------
+<a href="/images/Kyle_Nifty_Fifty_2.jpg"><img width="300" src="/images/Kyle_Nifty_Fifty_2-small.jpeg" /></a>
+<a href="/images/Kyle_Nifty_Fifty.jpg"><img width="300" src="/images/Kyle_Nifty_Fifty-small.jpeg" /></a>
+
+
 Science Nation
 --------------
 
