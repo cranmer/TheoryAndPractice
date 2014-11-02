@@ -16,6 +16,11 @@ Now that we've discovered the Higgs boson, it's time to upgrade the graphics for
 
 Please stop by our booth!
 
+*Update*:
+Here are photos from the 2014 festival
+
+<iframe src="https://www.flickr.com/photos/hoonynoo/13890394667/in/set-72157644039973380/player/" width="500" height="374" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 <div class="row">
 	<div  class="col-md-4">
 		<a href="/images/Web-panel.png">
