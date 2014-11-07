@@ -1,4 +1,4 @@
-Title: Searching for Cosmic Rays with Smart Phones
+Title: Searching for Cosmic Rays with Phones
 date: 2014-10-02 10:53
 Slug: Crayfis
 Category: Blog

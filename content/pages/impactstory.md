@@ -3,19 +3,24 @@ Date: 2014-01-28 16:34
 Author: cranmer
 Slug: Research
 
+
+## Bio (useful for introductions):
+Kyle Cranmer is an Associate Professor of Physics at New York University and Affiliated Faculty member at NYU's Center for Data Science.  He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland.  Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his B.A. in Mathematics and Physics from Rice University.  In 2007, he was awarded the Presidential Early Career Award for Science and Engineering from President George W. Bush via the Department of Energy's Office of Science and in 2009 he was awarded the National Science Foundation's Career Award.  Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012.
+
 <img align="right" src="http://inspirehep.net/img/inspire_logo_hep.png" />
 
 ##Profiles:
-
-- [INSPIRE Author Profile](http://inspirehep.net/author/profile/K.S.Cranmer.1)
-- [ORCID : 0000-0002-5769-7094](http://orcid.org/0000-0002-5769-7094)
-- [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
+- [Wikipedia](https://en.wikipedia.org/wiki/Kyle_Cranmer)
 - [ImpactStory](http://impactstory.org/KyleCranmer)
+- [INSPIRE Author Profile](http://inspirehep.net/author/profile/K.S.Cranmer.1)
+- [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
+- [ORCID : 0000-0002-5769-7094](http://orcid.org/0000-0002-5769-7094)
 - [Klout](http://klout.com/#/KyleCranmer)
 
 
 
-## Selected Articles based on AltMetrics
+## Selected Articles based on AltMetrics:
+
 <!--http://api.altmetric.com/embeds.html-->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div class="row">

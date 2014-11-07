@@ -6,6 +6,11 @@ Slug: in-the-news
 Below are a collection of videos, pod casts, and news excerpts from my
 work.
 
+Particle Fever Shorts: "This is Kyle Cranmer" 
+---------------------------------------------
+<a href="https://particlefever.vhx.tv/buy/particle-fever"><img src="/images/particle-fever.png" width="400" /></a>
+
+
 TEDx
 --------
 <!-- 
