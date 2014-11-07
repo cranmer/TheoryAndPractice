@@ -119,10 +119,42 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 
 
  
+<!--<iframe src="https://impactstory.org/embed/KyleCranmer" width="100%" height="600"></iframe>-->
+<!--<iframe src="https://impactstory.org/KyleCranmer" width="100%" height="600"></iframe>-->
+
+<!--
+	attempt to embed map
+<script src="https://impactstory.org/top.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+<script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.js"></script>
+<script type="text/javascript" src="https://impactstory.org/static/dist/angular-libs.js"></script> 
+<script type="text/javascript" src="https://impactstory.org/static/dist/Impactstory.js"></script>
+<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+<script type="text/javascript">      Stripe.setPublishableKey(stripePublishableKey);
+</script>
 
 
+<div id="replaceme">some text</div>
+<b>Server Response:</b>
+<div id="error"></div>
 
- 
+<script>
+$( "#replaceme" ).load( "https://impactstory.org/KyleCranmer/map #sidebar", function( response, status, xhr ) {
+  if ( status == "error" ) {
+    var msg = "Sorry but there was an error: ";
+    $( "#error" ).html( msg + xhr.status + " " + xhr.statusText );
+  }
+  else {
+  	 var msg = "No error reported: ";
+    $( "#error" ).html( msg + xhr.status + " " + xhr.statusText );
+  }
+});
+</script> 
+
+-->
+
 <!--
 ImpactStory
 -----------
