@@ -105,6 +105,7 @@ TWITTER_WIDGET_ID=''
 ADDTHIS_PROFILE='ra-5332e76b5340f5f3'
 
 GOOGLE_ANALYTICS='UA-3337202-1'
+#TWITTER_CARDS='False' 
 
 
 #INDEX_SAVE_AS = 'index.html'
@@ -112,8 +113,10 @@ GOOGLE_ANALYTICS='UA-3337202-1'
 #the deault _nb_header is changing 
 #fonts etc. of rest of notmyidea and pelican-bootstrap3 themes
 #looks ok in notmyidea, but no style at all in bootstrap3
-EXTRA_HEADER = open('_nb_header_minimal.html').read().decode('utf-8')
-#EXTRA_HEADER = '' #need to flush
+
+#This souldn't be necessary with updated pelican-bootstrap3
+#EXTRA_HEADER = open('_nb_header_minimal.html').read().decode('utf-8')
+EXTRA_HEADER = '' #need to flush
 
 #DISQUS Code
 '''

@@ -121,6 +121,7 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
  
 <!--<iframe src="https://impactstory.org/embed/KyleCranmer" width="100%" height="600"></iframe>-->
 <!--<iframe src="https://impactstory.org/KyleCranmer" width="100%" height="600"></iframe>-->
+<iframe src="https://impactstory.org/KyleCranmer/map" width="100%" height="600"></iframe>
 
 <!--
 	attempt to embed map
