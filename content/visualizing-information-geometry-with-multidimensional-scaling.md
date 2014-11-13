@@ -1,5 +1,5 @@
 Title: Visualizing information geometry with multidimensional scaling
-Date: 2014-03-05 16:47
+Date: 2014-03-22 16:47
 Author: cranmer
 Category: Blog
 Tags: Data, python, Statistics
