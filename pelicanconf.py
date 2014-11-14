@@ -116,7 +116,8 @@ GOOGLE_ANALYTICS='UA-3337202-1'
 
 #This souldn't be necessary with updated pelican-bootstrap3
 #EXTRA_HEADER = open('_nb_header_minimal.html').read().decode('utf-8')
-EXTRA_HEADER = '' #need to flush
+EXTRA_HEADER = open('extra_header_minimal.html').read().decode('utf-8')
+#EXTRA_HEADER = '' #need to flush
 
 #DISQUS Code
 '''
