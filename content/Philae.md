@@ -2,7 +2,7 @@ Title: Physics of Philae
 date: 2014-10-13 13:53
 Slug: Philae
 Category: Blog
-Tags:  physics, Communication
+Tags:  physics, communication
 Authors: Kyle Cranmer
 
 My first storify. Some physics based on the information of the Philae's big bounce in [this article](http://www.bbc.com/news/science-environment-30034060)
