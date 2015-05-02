@@ -90,6 +90,7 @@ BOOTSTRAP_THEME='simplex'
 BOOTSTRAP_THEME='yeti'
 BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 BOOTSTRAP_THEME='cosmo'
+#BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 #ABOUT_ME="I'm a professor at NYU interested in particle physics, open science, data science, and science communication to the broader public."
