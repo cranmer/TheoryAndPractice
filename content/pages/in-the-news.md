@@ -6,6 +6,21 @@ Slug: in-the-news
 Below are a collection of videos, pod casts, and news excerpts from my
 work.
 
+
+Physicists May Have Found New Fundamental Particle Of Nature
+---------------------------------------------
+
+**NPR Here and Now** [transcript](http://hereandnow.wbur.org/2015/12/16/cern-fundamental-particle-nature)
+
+<iframe width="70%" height="124" scrolling="no" frameborder="no" src="//embed.wbur.org/player/hereandnow/2015/12/16/cern-fundamental-particle-nature"></iframe>
+
+
+**New York Times:**
+[ Physicists in Europe Find Tantalizing Hints of a Mysterious New Particle](http://www.nytimes.com/2015/12/16/science/physicists-in-europe-find-tantalizing-hints-of-a-mysterious-new-particle.html?_r=0)
+
+
+- - -
+
 Particle Fever Shorts: "This is Kyle Cranmer" 
 ---------------------------------------------
 <a href="https://particlefever.vhx.tv/buy/particle-fever"><img src="/images/particle-fever.png" width="400" /></a>

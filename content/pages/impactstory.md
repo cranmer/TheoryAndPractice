@@ -34,6 +34,20 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 
 - - - 
 
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		Observing Ultra-High Energy Cosmic Rays with Smartphones
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="2771016"></div>
+	</div>
+</div>
+
+
+- - - 
+
 <div class="row">
 	<div  class="col-md-4">
 		10 Simple Rules for the Care and Feeding of Scientific Data
@@ -61,7 +75,7 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 		Evidence for the spin-0 nature of the Higgs boson using ATLAS data
 	</div>
 	<div  class="col-md-8">
-		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="1802694"></div>
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="1605067"></div>
 	</div>
 </div>
 - - -
