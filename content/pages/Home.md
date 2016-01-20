@@ -28,7 +28,7 @@ Summary: try to set a new home page
 
  <div > <img src="/images/kyle-andys-party-miras-photo.jpg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Kyle Cranmer, I'm a professor at NYU interested in particle physics, open science, data science, and science communication to the broader public.
 
-I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/), there may be some glitches. </div><br />
+I also use this as a playground for blogging with [Pelican](http://getpelican.com/), there may be some glitches. </div><br />
 
 <br clear="all" />
 
@@ -39,9 +39,11 @@ I've just migrated the site from Wordpress to [Pelican](http://getpelican.com/),
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
   </div>
   <div class="col-md-6">
+
+
 		  	<script type="text/javascript">
 		<!--		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";-->
-		rssmikle_url="http://feeds.feedburner.com/inspirehep/Lrwp";
+		rssmikle_url="http://feeds.feedburner.com/inspirehep/Lrwp/";
 		rssmikle_frame_width="100%";
 		rssmikle_frame_height="400";
 		rssmikle_target="_blank";
