@@ -11,10 +11,10 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 
 ##Profiles:
 - [Wikipedia](https://en.wikipedia.org/wiki/Kyle_Cranmer)
-- [ImpactStory](http://impactstory.org/KyleCranmer)
 - [INSPIRE Author Profile](http://inspirehep.net/author/profile/K.S.Cranmer.1)
-- [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
 - [ORCID : 0000-0002-5769-7094](http://orcid.org/0000-0002-5769-7094)
+- [ImpactStory](https://impactstory.org/u/0000-0002-5769-7094)
+- [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
 - [Klout](http://klout.com/#/KyleCranmer)
 
 
