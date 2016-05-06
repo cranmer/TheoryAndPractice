@@ -6,15 +6,15 @@ Tags: Open Science
 Authors: Kyle Cranmer
 
 
-Earlier this week I joined the [Reproducibility Symposium at NYU](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). It was an interesting workshop/unconference with a great group of people.
+Earlier this week I joined the [Reproducibility Symposium at NYU](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). It was an interesting workshop/unconference with a great group of people. A huge thanks to [Vicky Steeves](http://victoriaisteeves.com) and [Juliana Freire](http://engineering.nyu.edu/user/4254)  that organized the event. 
 
 ## Introduction and Terminology Problems
 
-It started with some nice talks by [Jake VanderPlas](http://staff.washington.edu/jakevdp/) and [Katy Huff](http://katyhuff.github.io). Jake mentioned the issues around terminology, particularly the different conventions for the use of the terms "reproducibility" and "replicability". In some camps "reproducibility" refers to literally doing the same analysis with the same data again, while "replicability" refers to repeating the entire process including data collection. In other camps, these terms are reversed. I mentioned that within the ATLAS experiment we had a similar discussion, complicated by the fact that in an international audience these the sublte differences and connotations associated to these words are not universal. I suggested that at the very least we need to define them, but perhaps we should look for ery different terminology to avoid confusion. Philip Stark suggested we use some [Up Goer 5](https://xkcd.com/1133/) style terminology, e.g. "computational do-over-ability".
+It started with some nice talks by [Jake VanderPlas](http://staff.washington.edu/jakevdp/) and [Katy Huff](http://katyhuff.github.io). Jake mentioned the issues around terminology, particularly the different conventions for the use of the terms "reproducibility" and "replicability". In some camps "reproducibility" refers to literally doing the same analysis with the same data again, while "replicability" refers to repeating the entire process including data collection. In other camps, these terms are reversed. I mentioned that within the ATLAS experiment we had a similar discussion, complicated by the fact that in an international audience these the sublte differences and connotations associated to these words are not universal. I suggested that at the very least we need to define them, but perhaps we should look for very different terminology to avoid confusion. Philip Stark suggested we use some [Up Goer 5](https://xkcd.com/1133/) style terminology, e.g. "computational do-over-ability".
 
 ##The <del>three</del> four pillars of reproducible research
 
-Often in the discussions around open and reproducible science we discuss three main types of research products 
+Often in the discussions around open and reproducible science we focus three main types of research products 
 
   1. **the paper**: the traditional narrative document, often primary product, DOI is standard
   1. **the data**: increasingly appreciated as a first-class citizen of scientific record with data repositories providing DOIs
@@ -70,7 +70,7 @@ Faculty teaching releif for retraining
 -->
 
 
-Later we had an informal panel / debate on carrots vs. sticks with [Rick O. Gilmore](http://www.personal.psu.edu/rog1/), [Philip Stark](http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/), [Meredith Broussard](http://www.meredithbroussard.com), and myself. The format was fun as we asked Philip to argue the case for carrots and Rick to argue the case for sticks, in contrast to their more vocal positions. I took on the split-personality of High-Energy Physics.
+Later we had an informal panel / debate on carrots vs. sticks with [Rick O. Gilmore](http://www.personal.psu.edu/rog1/), [Philip Stark](http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/), [Meredith Broussard](http://www.meredithbroussard.com), and myself. The format was fun (thanks [Vicky](http://victoriaisteeves.com) !) as we asked Philip to argue the case for carrots and Rick to argue the case for sticks, in contrast to their more vocal positions. I took on the split-personality of High-Energy Physics.
 
 This discussion was probably my favorite part and a few playful analogies were mentioned as effective ways to discuss the needed change in culture with a skeptical audience.
 
