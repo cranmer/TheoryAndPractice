@@ -20,7 +20,7 @@ provide a covariance matrix from the likelihood fit.  Enjoy!</span>
 
 For convenience, here it is embeded
 - - - 
-{% notebook BasicRooFitExample.ipynb %}
+{% notebook downloads/notebooks/BasicRooFitExample.ipynb %}
 
   [ROOT]: http://root.cern.ch/
   [RooFit]: http://root.cern.ch/drupal/content/users-guide#roofit

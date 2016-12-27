@@ -13,4 +13,4 @@ For convenience, embedded below (using the pelican liquid notebook plugin)
 
 - - - 
 
-{% notebook BICEP2_likelihood.ipynb %}
+{% notebook downloads/notebooks/BICEP2_likelihood.ipynb %}

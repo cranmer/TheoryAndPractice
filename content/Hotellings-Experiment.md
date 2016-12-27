@@ -5,4 +5,4 @@ Category: Blog
 Tags:  python, Statistics
 Authors: Kyle Cranmer
 
-{% notebook HotellingsExperiment.ipynb %}
+{% notebook downloads/notebooks/HotellingsExperiment.ipynb %}

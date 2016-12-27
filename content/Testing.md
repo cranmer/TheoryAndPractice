@@ -70,19 +70,19 @@ Notes on themes:
 
 Ok, enough talk. Let's try a few cells from my IPython notebook of a [Spirograph Animation](http://nbviewer.ipython.org/url/cranmer.github.io/downloads/notebooks/Spirograph3d.ipynb?create=1) for fun.  I'll type:
 
-{% literal notebook Spirograph3d.ipynb cells[9:10] %}
+{% literal notebook downloads/notebooks/Spirograph3d.ipynb cells[9:10] %}
 
 and that produces:
  
 
-{% notebook Spirograph3d.ipynb cells[9:10] %}
+{% notebook downloads/notebooks/Spirograph3d.ipynb cells[9:10] %}
 
 So far so good, now let's try to embed the end of the notebook that has the animation with 
-{% literal notebook Spirograph3d.ipynb cells[9:10] %}
+{% literal notebook downloads/notebooks/Spirograph3d.ipynb cells[9:10] %}
 
-{% literal notebook Spirograph3d.ipynb cells[14:15] %}
+{% literal notebook downloads/notebooks/Spirograph3d.ipynb cells[14:15] %}
 
-{% notebook Spirograph3d.ipynb cells[14:15] %}
+{% notebook downloads/notebooks/Spirograph3d.ipynb cells[14:15] %}
 
 Animation looks good, but doesn't seem to work on my phone. 
 

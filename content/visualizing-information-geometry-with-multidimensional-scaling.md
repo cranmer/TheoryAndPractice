@@ -46,4 +46,4 @@ For convenience, the original notebook is embedded below (using the pelican liqu
 
 - - - 
 
-{% notebook GaussianInformationGeometryEmbedding.ipynb %}
+{% notebook downloads/notebooks/GaussianInformationGeometryEmbedding.ipynb %}

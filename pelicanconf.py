@@ -76,11 +76,23 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 
 PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
-			'liquid_tags.youtube', 'render_math',
-           'liquid_tags.include_code', 'liquid_tags.notebook',
-           'liquid_tags.literal', 'liquid_tags.thebe']
+  'liquid_tags.youtube', 
+  'render_math', 
+  'liquid_tags.include_code', 
+  'pelican-ipynb.liquid' ,'liquid_tags.literal'] 
+#  'liquid_tags.notebook','liquid_tags.literal'] 
+
+#
+
+
+#  'liquid_tags.notebook'
+
+#, 'liquid_tags.thebe']
 
 THEME = 'pelican-bootstrap3'
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+
+
 #THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
@@ -92,7 +104,11 @@ PYGMENTS_STYLE='default'
 BOOTSTRAP_THEME='simplex'
 BOOTSTRAP_THEME='yeti'
 BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
-BOOTSTRAP_THEME='cosmo'
+BOOTSTRAP_THEME='cosmo' #used for T&P through 2016
+BOOTSTRAP_THEME='flatly' #looks good, some color
+#BOOTSTRAP_THEME='journal' #also looks good, more B&W
+#BOOTSTRAP_THEME='readable' 
+
 #BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
@@ -120,8 +136,9 @@ GOOGLE_ANALYTICS='UA-3337202-1'
 
 #This souldn't be necessary with updated pelican-bootstrap3
 #EXTRA_HEADER = open('_nb_header_minimal.html').read().decode('utf-8')
-EXTRA_HEADER = open('extra_header_minimal.html').read().decode('utf-8')
+#EXTRA_HEADER = open('extra_header_minimal.html').read().decode('utf-8')
 #EXTRA_HEADER = '' #need to flush
+#EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 
 #DISQUS Code
 '''

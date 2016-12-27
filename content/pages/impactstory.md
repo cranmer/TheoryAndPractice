@@ -7,6 +7,8 @@ Slug: Research
 ## Bio (useful for introductions):
 Kyle Cranmer is an Associate Professor of Physics at New York University and Affiliated Faculty member at NYU's Center for Data Science.  He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland.  Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his B.A. in Mathematics and Physics from Rice University.  In 2007, he was awarded the Presidential Early Career Award for Science and Engineering from President George W. Bush via the Department of Energy's Office of Science and in 2009 he was awarded the National Science Foundation's Career Award.  Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012.
 
+
+
 <img align="right" src="http://inspirehep.net/img/inspire_logo_hep.png" />
 
 ##Profiles:
@@ -19,7 +21,7 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 
 
 
-## Selected Articles based on AltMetrics:
+## Selected research products based on AltMetrics:
 
 <!--http://api.altmetric.com/embeds.html-->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
@@ -78,7 +80,21 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="1605067"></div>
 	</div>
 </div>
+
 - - -
+
+<div class="row">
+	<div  class="col-md-4">
+		Machine Learning & Likelihood Free Inference in Particle Physics (NIPS2016 Keynote)
+	</div>
+	<div  class="col-md-8">
+		<div class="altmetric-embed" data-badge-type="donut"  data-badge-details='right' data-altmetric-id="14540603" ></div>
+	</div>
+</div>
+
+- - -
+
+
 
 ##Recent Publications 
 
@@ -135,7 +151,7 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
  
 <!--<iframe src="https://impactstory.org/embed/KyleCranmer" width="100%" height="600"></iframe>-->
 <!--<iframe src="https://impactstory.org/KyleCranmer" width="100%" height="600"></iframe>-->
-<iframe src="https://impactstory.org/KyleCranmer/map" width="100%" height="600"></iframe>
+<!-- <iframe src="https://impactstory.org/KyleCranmer/map" width="100%" height="600"></iframe>-->
 
 <!--
 	attempt to embed map
