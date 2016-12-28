@@ -1,4 +1,4 @@
-Title: Home
+Title: 
 date: 2014-03-21 10:53
 URL:
 save_as: index.html
@@ -26,7 +26,8 @@ Summary: try to set a new home page
 <!--{% img /images/kyle-andys-party-miras-photo.jpg 300 200 Me %}-->
 
 
- <div > <img src="/images/kyle-andys-party-miras-photo.jpg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Kyle Cranmer, I'm a professor at NYU interested in particle physics, open science, data science, and science communication to the broader public.
+ <div > <img src="/images/kyle-andys-party-miras-photo.jpg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Kyle Cranmer, I'm a professor at NYU interested in particle physics, machine learning, statistics, open science, cyberinfrastructure, and science communication to the broader public.
+
 
 I also use this as a playground for blogging with [Pelican](http://getpelican.com/), there may be some glitches. </div><br />
 
@@ -47,8 +48,8 @@ I also use this as a playground for blogging with [Pelican](http://getpelican.co
 		rssmikle_frame_width="100%";
 		rssmikle_frame_height="400";
 		rssmikle_target="_blank";
-		rssmikle_font="Open Sans,Calibri,Candara,Arial,sans-serif";
-		rssmikle_font_size="11";
+		rssmikle_font="Lato,Open Sans,Calibri,Candara,Arial,sans-serif";
+		rssmikle_font_size="12";
 		rssmikle_border="on";
 		responsive="on";
 		rssmikle_css_url="";
@@ -60,7 +61,7 @@ I also use this as a playground for blogging with [Pelican](http://getpelican.co
 		rssmikle_title="on";
 		rssmikle_title_sentence="Recent Publications";
 		rssmikle_title_link="http://inspirehep.net/?p=a%3AK.S.Cranmer.1";
-		rssmikle_title_bgcolor="#000000";
+		rssmikle_title_bgcolor="#2C3E50";
 		rssmikle_title_color="#FFFFFF";
 		rssmikle_title_bgimage="http://";
 		rssmikle_item_bgcolor="#FFFFFF";

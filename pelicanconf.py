@@ -22,6 +22,17 @@ MENUITEMS = (
 			('Projects','/pages/projects.html'),
 			('Media & Outreach','/pages/in-the-news.html'),)
 
+
+LINKS =  (('My group', 'http://physics.nyu.edu/experimentalparticle/'),
+          ('CCPP','http://cosmo.nyu.edu/'),
+          ('CDS','http://cds.nyu.edu/'),
+          ('DIANA','http://diana-hep.org/'),
+          ('MSDSE','http://msdse.org'),
+          ('DASPOS','http://daspos.org/'),
+          )
+
+
+'''
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
 		  ('Quantum Diaries', 'http://www.quantumdiaries.org/'),
@@ -38,16 +49,19 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 		  ('INSPIRE','http://blog.inspirehep.net/'),
 		  ('Data Pub','http://datapub.cdlib.org/'),
 		  ('Hogg’s Research','http://hoggresearch.blogspot.com/'),)
+'''
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('github', 'http://github.com/cranmer'),
           ('linkedin','http://www.linkedin.com/in/kylecranmer'),
-          ('google+','https://plus.google.com/106689822196584540592/posts'),
           ('youtube','https://www.youtube.com/channel/UCKl2VoIJiPYp3QhuK22b7xQ'),
-          ('flickr','http://www.flickr.com/photos/hoonynoo/'),
           ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'),
           ('ImpactStory','https://impactstory.org/u/0000-0002-5769-7094'))
+
+#          ('flickr','http://www.flickr.com/photos/hoonynoo/'),
+#          ('google+','https://plus.google.com/106689822196584540592/posts'),
+
 
 CC_LICENSE="CC-BY"
 
@@ -76,7 +90,7 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 
 PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
-  'liquid_tags.youtube', 
+  'liquid_tags.youtube', 'tag_cloud',
   'render_math', 
   'liquid_tags.include_code', 
   'pelican-ipynb.liquid' ,'liquid_tags.literal'] 
@@ -111,7 +125,17 @@ BOOTSTRAP_THEME='flatly' #looks good, some color
 
 #BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
+BOOTSTRAP_NAVBAR_INVERSE=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
+
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_BADGE = True  
+DISPLAY_TAGS_ON_SIDEBAR=True
+TAG_CLOUD_MAX_ITEMS=25
+DISPLAY_TAGS_INLINE=True
+HIDE_SIDEBAR=False
+
+
 #ABOUT_ME="I'm a professor at NYU interested in particle physics, open science, data science, and science communication to the broader public."
 #AVATAR='/images/kyle-andys-party-miras-photo.jpg'
 AVATAR=None

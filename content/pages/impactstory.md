@@ -1,22 +1,40 @@
-Title: Research
+Title: 
 Date: 2014-01-28 16:34
 Author: cranmer
 Slug: Research
 
 
 ## Bio (useful for introductions):
-Kyle Cranmer is an Associate Professor of Physics at New York University and Affiliated Faculty member at NYU's Center for Data Science.  He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland.  Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his B.A. in Mathematics and Physics from Rice University.  In 2007, he was awarded the Presidential Early Career Award for Science and Engineering from President George W. Bush via the Department of Energy's Office of Science and in 2009 he was awarded the National Science Foundation's Career Award.  Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012.
+<!--Kyle Cranmer is an Associate Professor of Physics at New York University and Affiliated Faculty member at NYU's Center for Data Science.  He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland.  Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his B.A. in Mathematics and Physics from Rice University.  In 2007, he was awarded the Presidential Early Career Award for Science and Engineering from President George W. Bush via the Department of Energy's Office of Science and in 2009 he was awarded the National Science Foundation's Career Award.  Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012.-->
 
+Kyle Cranmer is an Associate Professor of Physics at New York University and affiliated with NYU's Center for Data Science. He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland. Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his 
+B.A. in Mathematics and Physics from Rice University. 
+He was awarded the Presidential Early Career Award for Science and Engineering in 2007 and the National Science Foundation's Career Award in 2009. Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012. His current interests are at the intersection of physics, statistics, and machine learning.
 
+## Research Interests:
 
-<img align="right" src="http://inspirehep.net/img/inspire_logo_hep.png" />
+I am primarily an experimental particle physicist working on the ATLAS experiment at the LHC, 
+though my interests are quite broad. Early in my education I had a difficult time choosing
+between theoretical and experimental physics, and I decided to focus on the interface with
+a heavy emphasis on analysis techniques, statistical methodology, and cyberinfrastructure. 
+I try to keep abreast of current thinking in theoretical physics to ensure that the results
+from the large experiments are relevant and impactful. At the same time, I like to keep 
+the experimental program cleanly factorized from theoretical bias. Thus a theme of much 
+of my work has been to establish the analysis strategy, statistical techniques, and cyberinfrastrure
+so that the experiments can provide powerful, interpretable tests for a wide range of theories.
+
+Recently, I've been particularly interested in inference in the context of intractable likelihoods, development of machine learning models imbued with physics knowledge, use of adversarial training for robustness to systematic uncertainty, the use of generative models in the physical sciences, and integration of reproducible workflows in the inference pipeline.
+
+<a href="(http://inspirehep.net/author/profile/K.S.Cranmer.1)">
+	<img align="right" src="http://inspirehep.net/img/inspire_logo_hep.png" />
+</a>
 
 ##Profiles:
 - [Wikipedia](https://en.wikipedia.org/wiki/Kyle_Cranmer)
 - [INSPIRE Author Profile](http://inspirehep.net/author/profile/K.S.Cranmer.1)
+- [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
 - [ORCID : 0000-0002-5769-7094](http://orcid.org/0000-0002-5769-7094)
 - [ImpactStory](https://impactstory.org/u/0000-0002-5769-7094)
-- [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
 - [Klout](http://klout.com/#/KyleCranmer)
 
 
@@ -108,7 +126,7 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 		rssmikle_frame_width="100%";
 		rssmikle_frame_height="600";
 		rssmikle_target="_blank";
-		rssmikle_font="Open Sans,Calibri,Candara,Arial,sans-serif";
+		rssmikle_font="Lato, Open Sans,Calibri,Candara,Arial,sans-serif";
 		rssmikle_font_size="11";
 		rssmikle_border="on";
 		responsive="on";
@@ -121,7 +139,7 @@ Kyle Cranmer is an Associate Professor of Physics at New York University and Aff
 		rssmikle_title="on";
 		rssmikle_title_sentence="Recent Publications";
 		rssmikle_title_link="http://inspirehep.net/?p=a%3AK.S.Cranmer.1";
-		rssmikle_title_bgcolor="#000000";
+		rssmikle_title_bgcolor="#2C3E50";
 		rssmikle_title_color="#FFFFFF";
 		rssmikle_title_bgimage="http://";
 		rssmikle_item_bgcolor="#FFFFFF";
