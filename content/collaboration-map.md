@@ -62,5 +62,5 @@ One nice thing about this appraoch is that the [input is JSON](https://github.co
 
 The interactive visualization at the top is my first try at a collaboration map. 
 
-Feel free to send a pull request for the [input is JSON](https://github.com/cranmer/TheoryAndPractice/blob/javascript/content/downloads/files/collaboration.json).
+Feel free to send a pull request for the [input is JSON](https://github.com/cranmer/TheoryAndPractice/blob/master/content/downloads/files/collaboration.json).
 
