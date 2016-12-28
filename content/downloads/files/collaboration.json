@@ -514,14 +514,14 @@
         {
             "type": "project",
             "name": "RooStats",
-            "description": "",
+            "description": "The statistical tools used widely at the LHC, and almost exclusively for the Higgs discovery.",
             "group": "11",
             "slug": "roostats"
         },
         {
             "type": "project",
             "name": "HistFactory",
-            "description": "",
+            "description": "A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches.",
             "group": "11",
             "slug": "histfactory"
         },
@@ -535,14 +535,14 @@
         {
             "type": "project",
             "name": "Recast",
-            "description": "",
+            "description": "A project to make it possible to reinterpret experimental results in the context of a different theoretical  model.",
             "group": "12",
             "slug": "recast"
         },
         {
             "type": "project",
             "name": "yadage",
-            "description": "",
+            "description": "yadage is a language and engine for flexible, distributed workflows. Originally written by Lukas Heinrich to serve as the backend for Recast, it is now being extended via MSDSE, DASPOS, and CERN and integrated into various projects)- <a href=\"http://yadage.readthedocs.io\">docs</a> | <a href=\"https://github.com/diana-hep/yadage\">code</a>",
             "group": "12",
             "slug": "cyberinfrastructure"
         },
