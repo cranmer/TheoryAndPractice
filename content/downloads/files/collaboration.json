@@ -148,30 +148,42 @@
             "type": "project",
             "name": "RooStats",
             "description": "",
+            "group": "11",
             "slug": "roostats"
         },
         {
             "type": "project",
             "name": "Carl",
             "description": "",
+            "group": "11",
             "slug": "carl"
         },
         {
             "type": "project",
             "name": "Recast",
             "description": "",
+            "group": "12",
             "slug": "recast"
+        },
+        {
+            "type": "project",
+            "name": "yadage",
+            "description": "",
+            "group": "12",
+            "slug": "cyberinfrastructure"
         },
         {
             "type": "project",
             "name": "Higgs EFT",
             "description": "",
+            "group": "11",
             "slug": "ml"
         },
         {
             "type": "project",
             "name": "Information Geometry",
             "description": "",
+            "group": "11",
             "slug": "ai"
         },
         {
@@ -179,12 +191,6 @@
             "name": "Jet Embeddings",
             "description": "",
             "slug": "software"
-        },
-        {
-            "type": "project",
-            "name": "yadage",
-            "description": "",
-            "slug": "cyberinfrastructure"
         },
         {
             "type": "project",
