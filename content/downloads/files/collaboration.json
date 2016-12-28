@@ -10,11 +10,16 @@
             "links": [
                 "Recast",
                 "RooStats",
+                "HistFactory",
                 "Carl",
                 "yadage",
+                "decouple",
                 "Higgs EFT",
                 "Information Geometry",
+                "Gaussian Processes",
+                "UnicodeIt",
                 "Jet Embeddings",
+                "ML w/ Systematics",
                 "Physics AI",
                 "ATLAS",
                 "ALEPH",
@@ -47,6 +52,7 @@
                 "Physics AI",
                 "ATLAS",
                 "HEPData",
+                "CAP",
                 "DIANA",
                 "DASPOS",
                 "CAP",
@@ -66,6 +72,8 @@
                 "Carl",
                 "Higgs EFT",
                 "Jet Embeddings",
+                "ML w/ Systematics",                
+                "scikit-optimize",
                 "Physics AI",
                 "ATLAS",
                 "INSPIRE",
@@ -93,6 +101,62 @@
         },
         {
             "type": "ditem",
+            "name": "Sven Kreiss",
+            "description": "",
+            "ditem": 4,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "RooStats",
+                "Higgs EFT",
+                "UnicodeIt",
+                "decouple",
+                "ATLAS",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "George H. Lewis",
+            "description": "",
+            "ditem": 4,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "HistFactory",
+                "ATLAS",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "James Beacham",
+            "description": "",
+            "ditem": 4,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "ALEPH",
+                "APEX",
+                "ATLAS",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Itay Yavin",
+            "description": "",
+            "ditem": 4,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "ALEPH",
+                "Recast",
+                "CCPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
             "name": "Kyunghun Cho",
             "description": "",
             "ditem": 5,
@@ -105,27 +169,46 @@
         },
         {
             "type": "ditem",
-            "name": "Johann Brehmer",
-            "description": "",
-            "ditem": 5,
-            "date": "2012-05-09 15:53:27",
-            "slug": "ditem",
-            "links": [
-                "Higgs EFT",
-                "Information Geometry"
-            ]
-        },
-        {
-            "type": "ditem",
             "name": "Tim Head",
-            "description": "",
+            "description": "<a href=\"http://betatim.github.io/\">Tim Head</a>",
             "ditem": 5,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
                 "yadage",
+                "scikit-optimize",
                 "DASPOS",
-                "DIANA"
+                "DIANA",
+                "LHCb"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Noel Dawe",
+            "description": "<a href=\"http://www.coepp.org.au/people/noel-dawe\">Noel Dawe</a>",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "scikit-optimize",
+                "ATLAS",
+                "DIANA",
+                "Jet Embeddings"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Eamonn Maguire",
+            "description": "<a href=\"https://github.com/eamonnmag\">Eamonn Maguire</a>",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Recast",
+                "INSPIRE",
+                "CAP",
+                "DIANA",
+                "HEPData"
             ]
         },
         {
@@ -180,6 +263,52 @@
         },
         {
             "type": "ditem",
+            "name": "Mike Hildreth",
+            "description": "<a href=\"http://physics.nd.edu/people/faculty/michael-hildreth/\">Mike Hildreth</a> is a Professor of Physics at Notre Dame",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "yadage",
+                "Recast",
+                "DASPOS",
+                "CAP",
+                "CMS"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Sünje Dallmeier-Tiessen",
+            "description": "<a href=\"https://www.linkedin.com/in/sünje-dallmeier-tiessen-24850992\">Sünje Dallmeier-Tiessen</a> is a Data Specialist/ Information Manager at CERN",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "yadage",
+                "Recast",
+                "CAP",
+                "INSPIRE",
+                "HEPData",
+                "CERN"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Salvatore Mele",
+            "description": "Salvatore Mele holds a PhD in High-Energy Physics and is head of Open Access at CERN, where he serves as Strategic Director for INSPIRE",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "CAP",
+                "Recast",
+                "INSPIRE",
+                "HEPData",
+                "CERN"
+            ]
+        },
+        {
+            "type": "ditem",
             "name": "Heiko Müller",
             "description": "<a href=\"http://cims.nyu.edu/~hmueller/\">Heiko Müller</a> is a Research Engineer at NYU's Center for Data Science",
             "ditem": 9,
@@ -187,9 +316,108 @@
             "slug": "ditem",
             "links": [
                 "yadage",
-                "DIANA",
                 "MSDSE",
+                "DASPOS",
                 "CDS@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Daniel Whiteson",
+            "description": "<a href=\"http://amanda.uci.edu/~daniel/\">Daniel Whiteson</a> is a physicist at UC-Irvine",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "CARL",
+                "Gaussian Processes",
+                "Crayfis",
+                "ML w/ Systematics",
+                "ATLAS"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Chase Shimmin",
+            "description": "Chase was a major force behind Crayfis as a student UC-Irvine and is now at Yale",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Crayfis",
+                "ATLAS"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Michael Mulhearn",
+            "description": "Michael Mulhearn is a professor of physics at UC-Davis",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Crayfis",
+                "CMS"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Michael Kagan",
+            "description": "<a href=\"http://amanda.uci.edu/~daniel/\">Daniel Whiteson</a> is a physicist at UC-Irvine",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "ML w/ Systematics",
+                "ATLAS"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Jeffrey Streets",
+            "description": "Jeffrey Streets is a professor of mathematics at UC-Irvine interested studying geometry.",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Information Geometry"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Juan Pavez",
+            "description": "<a href=\"https://github.com/jgpavez\">Juan Pavez</a>",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Higgs EFT",
+                "Carl"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Johann Brehmer",
+            "description": "",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Higgs EFT",
+                "Information Geometry"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Tilman Plehn",
+            "description": "Tilman Plehn is ",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Higgs EFT",
+                "decouple",
+                "Information Geometry"
             ]
         }
 
@@ -204,8 +432,15 @@
         },
         {
             "type": "project",
-            "name": "Carl",
+            "name": "HistFactory",
             "description": "",
+            "group": "11",
+            "slug": "histfactory"
+        },
+        {
+            "type": "project",
+            "name": "Carl",
+            "description": "Carl is a toolbox for likelihood-free inference - <a href=\"http://diana-hep.org/carl\">documentation</a> | <a href=\"https://github.com/diana-hep/carl\">code</a>",
             "group": "11",
             "slug": "carl"
         },
@@ -232,16 +467,48 @@
         },
         {
             "type": "project",
+            "name": "Jet Embeddings",
+            "description": "",
+            "slug": "software"
+        },
+        {
+            "type": "project",
+            "name": "ML w/ Systematics",
+            "description": "",
+            "slug": "software"
+        },
+        {
+            "type": "project",
+            "name": "Gaussian Processes",
+            "description": "",
+            "slug": "software"
+        },
+        {
+            "type": "project",
+            "name": "scikit-optimize",
+            "description": "",
+            "slug": "software"
+        },
+        {
+            "type": "project",
+            "name": "decouple",
+            "description": "Decoupling uncertainties through composition (emphasis on theoretical uncertainties and Higgs measurements)  <a href=\"https://arxiv.org/abs/1401.0080\">paper</a> | <a href=\"https://github.com/svenkreiss/decouple\">code</a>",
+            "group": "11",
+            "slug": "roostats"
+        },
+        {
+            "type": "project",
+            "name": "UnicodeIt",
+            "description": "<a href=\"http://www.svenkreiss.com/UnicodeIt\">UnicodeIt</a>",
+            "group": "12",
+            "slug": "recast"
+        },
+        {
+            "type": "project",
             "name": "Information Geometry",
             "description": "",
             "group": "11",
             "slug": "ai"
-        },
-        {
-            "type": "project",
-            "name": "Jet Embeddings",
-            "description": "",
-            "slug": "software"
         },
         {
             "type": "project",

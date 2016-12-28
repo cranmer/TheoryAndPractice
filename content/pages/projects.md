@@ -2,6 +2,9 @@ Title: Projects
 Date: 2013-06-28 14:33
 Author: admin
 Slug: projects
+JavaScripts: d3.min.js, packages.js, collaboration-map.js, test-collaboration-map.js
+Stylesheets: concept-map.css, concept-map-padding.css
+
 
  
 
@@ -59,6 +62,14 @@ Slug: projects
 
   - [KEYS](https://github.com/cranmer/KEYS-historical) - Ancient code used at LEP for kernel density estimation
 
+
+### Collaboration Map
+
+<div id="graph" class="conceptmap" ></div>
+<div id="graph-info"></div>
+
+<br />
+- - - 
 
 
   [RooStats]: https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome
