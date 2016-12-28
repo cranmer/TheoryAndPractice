@@ -6,6 +6,10 @@ Tags: Machine Learning, Higgs, Open Science, Physics
 Authors: Kyle Cranmer
 
 
+<div class="progress">
+  <div class="progress-bar progress-bar-danger" style="width: 10%"></div>
+</div>
+
 To write about:
 
   * 750 GeV & 2d LEE
@@ -29,3 +33,5 @@ To write about:
   * Information Geometry paper
   * DIANA summary
   * CDS Masters : first projects
+
+

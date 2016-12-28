@@ -25,7 +25,7 @@ so that the experiments can provide powerful, interpretable tests for a wide ran
 
 Recently, I've been particularly interested in inference in the context of intractable likelihoods, development of machine learning models imbued with physics knowledge, use of adversarial training for robustness to systematic uncertainty, the use of generative models in the physical sciences, and integration of reproducible workflows in the inference pipeline.
 
-<a href="(http://inspirehep.net/author/profile/K.S.Cranmer.1)">
+<a href="http://inspirehep.net/author/profile/K.S.Cranmer.1">
 	<img align="right" src="http://inspirehep.net/img/inspire_logo_hep.png" />
 </a>
 
