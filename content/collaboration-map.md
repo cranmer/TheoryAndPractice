@@ -18,6 +18,9 @@ Check it out first, and then read the blog post below. The collaboration map has
 <div id="graph" class="conceptmap" ></div>
 <div id="graph-info"></div>
 
+<br />
+- - - 
+
 For a long time I've wanted to come up with a nice way to visulize my collaborative network.
 I've played with graphviz, but never been satisfied. I worked with Pablo Barberá 
 last year to make something for our report for the [Moore-Sloan Data Science Initiative](http://msdse.org),

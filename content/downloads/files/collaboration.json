@@ -254,7 +254,7 @@
         {
             "type": "collaboration",
             "name": "ATLAS",
-            "description": "",
+            "description": "<a href=\"http://atlas.cern\">ATLAS is an experiment at CERN designed to explore the secrets of the universe.</a>",
             "slug": "atlas",
             "count": "10",
             "group": "1"
@@ -262,7 +262,7 @@
         {
             "type": "collaboration",
             "name": "CMS",
-            "description": "",
+            "description": "<a href=\"http://cms.cern\">CMS is an experiment at CERN designed to explore the secrets of the universe.</a>",
             "slug": "cms",
             "count": "10",
             "group": "1"
@@ -270,7 +270,7 @@
         {
             "type": "collaboration",
             "name": "LHCb",
-            "description": "",
+            "description": "<a href=\"http://lhcb-public.web.cern.ch/lhcb-public/\">LHCb is an experiment set up to explore what happened after the Big Bang that allowed matter to survive and build the Universe we inhabit today</a>",
             "slug": "lhcb",
             "count": "10",
             "group": "1"
@@ -278,7 +278,7 @@
         {
             "type": "collaboration",
             "name": "ALEPH",
-            "description": "",
+            "description": "An old experiment at LEP <a href=\"https://www.wired.com/2015/01/higgs-discovery-hijack-attempt/\">that motivated my interest in data and software preservation</a>",
             "slug": "aleph",
             "count": "10",
             "group": "1"
@@ -286,7 +286,7 @@
         {
             "type": "collaboration",
             "name": "APEX",
-            "description": "",
+            "description": "An experiment at Jefferson Lab looking for a fifth force carried by a \"dark photon\".",
             "slug": "apex",
             "count": "10",
             "group": "1"
@@ -294,7 +294,7 @@
         {
             "type": "collaboration",
             "name": "CRAYFIS",
-            "description": "",
+            "description": "<a href=\"https://crayfis.io\">The app that turns your phone into a cosmic ray detector. No joke.</a>",
             "slug": "crayfis",
             "count": "10",
             "group": "1"
@@ -302,7 +302,7 @@
         {
             "type": "collaboration",
             "name": "DIANA",
-            "description": "",
+            "description": "<a href=\"http://diana-hep.org\">Sustainable Software for High Energy Physics</a>",
             "slug": "diana",
             "count": "10",
             "group": "2"
@@ -310,7 +310,7 @@
         {
             "type": "collaboration",
             "name": "DASPOS",
-            "description": "",
+            "description": "<a href=\"https://daspos.crc.nd.edu\">Data And Software Preservation for High Energy Physics</a>",
             "slug": "daspos",
             "count": "10",
             "group": "2"
@@ -318,7 +318,7 @@
         {
             "type": "collaboration",
             "name": "CAP",
-            "description": "",
+            "description": "CERN Analysis Preservation project",
             "slug": "cap",
             "count": "10",
             "group": "2"
@@ -326,7 +326,7 @@
         {
             "type": "collaboration",
             "name": "INSPIRE",
-            "description": "",
+            "description": "<a href=\"http://inspirehep.net\">INSPIRE: High Energy physics Literature Database</a>",
             "slug": "inspire",
             "count": "10",
             "group": "2"
@@ -334,7 +334,7 @@
         {
             "type": "collaboration",
             "name": "HEPData",
-            "description": "",
+            "description": "<a href=\"https://hepdata.net\">HEPData: High Energy Physics Data Repository</a>",
             "slug": "hepdata",
             "count": "10",
             "group": "2"
@@ -342,7 +342,7 @@
         {
             "type": "collaboration",
             "name": "CDS@NYU",
-            "description": "",
+            "description": "<a href=\"http://cds.nyu.edu\">Center for Data Science at NYU</a>",
             "slug": "inspire",
             "count": "10",
             "group": "2"
@@ -358,7 +358,7 @@
         {
             "type": "collaboration",
             "name": "CCPP@NYU",
-            "description": "",
+            "description": "<a href=\"http://cosmo.nyu.edu\">Center for Cosmology and Particle Physics at NYU</a>",
             "slug": "inspire",
             "count": "10",
             "group": "2"
@@ -366,7 +366,7 @@
         {
             "type": "collaboration",
             "name": "EPP@NYU",
-            "description": "",
+            "description": "<a href=\"http://physics.nyu.edu/experimentalparticle/\">Experimental Particle Physics at NYU</a>",
             "slug": "inspire",
             "count": "10",
             "group": "2"
