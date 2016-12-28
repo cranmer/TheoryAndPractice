@@ -92,6 +92,7 @@ PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
   'liquid_tags.youtube', 'tag_cloud',
   'render_math', 
+  'pelican_javascript',
   'liquid_tags.include_code', 
   'pelican-ipynb.liquid' ,'liquid_tags.literal'] 
 #  'liquid_tags.notebook','liquid_tags.literal'] 
