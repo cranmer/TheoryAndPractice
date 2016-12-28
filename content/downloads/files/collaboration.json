@@ -93,52 +93,103 @@
         },
         {
             "type": "ditem",
-            "name": "Name",
+            "name": "Kyunghun Cho",
             "description": "",
             "ditem": 5,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
+                "Jet Embeddings",
+                "CDS@NYU"
             ]
         },
         {
             "type": "ditem",
-            "name": "Name",
+            "name": "Johann Brehmer",
+            "description": "",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "Higgs EFT",
+                "Information Geometry"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Tim Head",
+            "description": "",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "yadage",
+                "DASPOS",
+                "DIANA"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Brenden Lake",
             "description": "",
             "ditem": 6,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
+                "Physics AI",
+                "MSDSE"
             ]
         },
         {
             "type": "ditem",
-            "name": "Name",
+            "name": "Pete Elmer",
             "description": "",
             "ditem": 7,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
+                "CMS",
+                "DIANA"
             ]
         },
         {
             "type": "ditem",
-            "name": "Name",
+            "name": "Fernando Perez",
             "description": "",
             "ditem": 8,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
+                "yadage",
+                "MSDSE",
+                "DIANA"
+
             ]
         },
         {
             "type": "ditem",
-            "name": "Name",
-            "description": "",
+            "name": "Jake VanderPlas",
+            "description": "<a href=\"http://staff.washington.edu/jakevdp/\">Jake VanderPlas</a>",
             "ditem": 9,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
+                "DIANA",
+                "MSDSE"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Heiko Müller",
+            "description": "<a href=\"http://cims.nyu.edu/~hmueller/\">Heiko Müller</a> is a Research Engineer at NYU's Center for Data Science",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "yadage",
+                "DIANA",
+                "MSDSE",
+                "CDS@NYU"
             ]
         }
 
@@ -292,6 +343,14 @@
             "type": "collaboration",
             "name": "CDS@NYU",
             "description": "",
+            "slug": "inspire",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "MSDSE",
+            "description": "<a href=\"http://msdse.org\">Moore-Sloan Data Science Environment</a>",
             "slug": "inspire",
             "count": "10",
             "group": "2"
