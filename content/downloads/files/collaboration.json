@@ -1,0 +1,310 @@
+{
+    "ditems": [
+        {
+            "type": "ditem",
+            "name": "Kyle Cranmer",
+            "description": "<a href=\"http://theoryandpractice.org\">Kyle Cranmer</a> is a professor of phyiscs and data science at NYU.",
+            "ditem": 1,
+            "date": "2012-05-05 23:50:11",
+            "slug": "ditem-kyle-cranmer",
+            "links": [
+                "Recast",
+                "RooStats",
+                "Carl",
+                "yadage",
+                "Higgs EFT",
+                "Information Geometry",
+                "Jet Embeddings",
+                "Physics AI",
+                "ATLAS",
+                "ALEPH",
+                "APEX",
+                "Crayfis",
+                "INSPIRE",
+                "HEPData",
+                "MSDSE",
+                "DIANA",
+                "DASPOS",
+                "CAP",
+                "CDS@NYU",
+                "CCPP@NYU",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Lukas Heinrich",
+            "description": "<a href=\"http://www.lukasheinrich.com/\">Lukas Heinrich</a>",
+            "ditem": 2,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem-lukas-heinrich",
+            "links": [
+                "Recast",
+                "yadage",
+                "Higgs EFT",
+                "Information Geometry",
+                "Jet Embeddings",
+                "Physics AI",
+                "ATLAS",
+                "HEPData",
+                "DIANA",
+                "DASPOS",
+                "CAP",
+                "CDS@NYU",
+                "CCPP@NYU",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Gilles Louppe",
+            "description": "<a href=\"https://glouppe.github.io//\">Gilles Louppe</a>",
+            "ditem": 3,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem-gilles-louppe",
+            "links": [
+                "Carl",
+                "Higgs EFT",
+                "Jet Embeddings",
+                "Physics AI",
+                "ATLAS",
+                "INSPIRE",
+                "MSDSE",
+                "DIANA",
+                "CDS@NYU",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Cyril Becot",
+            "description": "",
+            "ditem": 4,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "yadage",
+                "Higgs EFT",
+                "Information Geometry",
+                "Jet Embeddings",
+                "ATLAS",
+                "EPP@NYU"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Name",
+            "description": "",
+            "ditem": 5,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Name",
+            "description": "",
+            "ditem": 6,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Name",
+            "description": "",
+            "ditem": 7,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Name",
+            "description": "",
+            "ditem": 8,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Name",
+            "description": "",
+            "ditem": 9,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+            ]
+        }
+
+    ],
+    "projects": [
+        {
+            "type": "project",
+            "name": "RooStats",
+            "description": "",
+            "slug": "roostats"
+        },
+        {
+            "type": "project",
+            "name": "Carl",
+            "description": "",
+            "slug": "carl"
+        },
+        {
+            "type": "project",
+            "name": "Recast",
+            "description": "",
+            "slug": "recast"
+        },
+        {
+            "type": "project",
+            "name": "Higgs EFT",
+            "description": "",
+            "slug": "ml"
+        },
+        {
+            "type": "project",
+            "name": "Information Geometry",
+            "description": "",
+            "slug": "ai"
+        },
+        {
+            "type": "project",
+            "name": "Jet Embeddings",
+            "description": "",
+            "slug": "software"
+        },
+        {
+            "type": "project",
+            "name": "yadage",
+            "description": "",
+            "slug": "cyberinfrastructure"
+        },
+        {
+            "type": "project",
+            "name": "Physics AI",
+            "description": "",
+            "slug": "reproducibility"
+        }
+    ],
+    "collaborations": [
+        {
+            "type": "collaboration",
+            "name": "ATLAS",
+            "description": "",
+            "slug": "atlas",
+            "count": "10",
+            "group": "1"
+        },
+        {
+            "type": "collaboration",
+            "name": "CMS",
+            "description": "",
+            "slug": "cms",
+            "count": "10",
+            "group": "1"
+        },
+        {
+            "type": "collaboration",
+            "name": "LHCb",
+            "description": "",
+            "slug": "lhcb",
+            "count": "10",
+            "group": "1"
+        },
+        {
+            "type": "collaboration",
+            "name": "ALEPH",
+            "description": "",
+            "slug": "aleph",
+            "count": "10",
+            "group": "1"
+        },
+        {
+            "type": "collaboration",
+            "name": "APEX",
+            "description": "",
+            "slug": "apex",
+            "count": "10",
+            "group": "1"
+        },
+        {
+            "type": "collaboration",
+            "name": "CRAYFIS",
+            "description": "",
+            "slug": "crayfis",
+            "count": "10",
+            "group": "1"
+        },
+        {
+            "type": "collaboration",
+            "name": "DIANA",
+            "description": "",
+            "slug": "diana",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "DASPOS",
+            "description": "",
+            "slug": "daspos",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "CAP",
+            "description": "",
+            "slug": "cap",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "INSPIRE",
+            "description": "",
+            "slug": "inspire",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "HEPData",
+            "description": "",
+            "slug": "hepdata",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "CDS@NYU",
+            "description": "",
+            "slug": "inspire",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "CCPP@NYU",
+            "description": "",
+            "slug": "inspire",
+            "count": "10",
+            "group": "2"
+        },
+        {
+            "type": "collaboration",
+            "name": "EPP@NYU",
+            "description": "",
+            "slug": "inspire",
+            "count": "10",
+            "group": "2"
+        }
+    ]
+}
