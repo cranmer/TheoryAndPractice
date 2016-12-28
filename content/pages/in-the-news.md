@@ -6,7 +6,7 @@ Slug: in-the-news
 Below are a collection of videos, pod casts, and news excerpts from my
 work.
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">NPR Here and Now</h3>
   </div>
@@ -31,7 +31,7 @@ Physicists May Have Found New Fundamental Particle Of Nature -
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">Webby Awards</h3>
   </div>
@@ -57,7 +57,7 @@ Physicists May Have Found New Fundamental Particle Of Nature -
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">TEDx</h3>
   </div>
@@ -80,7 +80,7 @@ Physicists May Have Found New Fundamental Particle Of Nature -
 </div>
 
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">WIRED</h3>
   </div>
@@ -106,7 +106,7 @@ Physicists May Have Found New Fundamental Particle Of Nature -
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">Physics Salm on Ice</h3>
   </div>
@@ -129,7 +129,7 @@ Physicists May Have Found New Fundamental Particle Of Nature -
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">NSF's Science Nation</h3>
   </div>
@@ -151,7 +151,7 @@ Physicists May Have Found New Fundamental Particle Of Nature -
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">TEDx</h3>
   </div>
@@ -191,7 +191,7 @@ dedicated to the Higgs discovery. Voted fan favorite for 2012.
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">The USA Science & Engineering Festival</h3>
   </div>
@@ -220,7 +220,7 @@ dedicated to the Higgs discovery. Voted fan favorite for 2012.
   </div>
 </div>
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">SpaceLab - Ask an expert</h3>
   </div>
@@ -243,7 +243,7 @@ dedicated to the Higgs discovery. Voted fan favorite for 2012.
 </div>
 
 
-<div class="panel panel-warning">
+<div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">Charlie Rose</h3>
   </div>
