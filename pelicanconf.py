@@ -94,6 +94,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
   'render_math', 
   'pelican_javascript',
   'liquid_tags.include_code', 
+  'i18n_subsites',
   'pelican-ipynb.liquid' ,'liquid_tags.literal'] 
 #  'liquid_tags.notebook','liquid_tags.literal'] 
 
