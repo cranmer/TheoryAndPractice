@@ -218,6 +218,17 @@
         },
         {
             "type": "ditem",
+            "name": "Laura Norén",
+            "description": "Laura Norén is the chair of the Data Science Studies Working Group and edits the <a href=\"http://cds.nyu.edu/newsletter/\">Data Science Community Newsletter</a>",
+            "ditem": 6,
+            "date": "2012-05-09 15:53:27",
+            "slug": "ditem",
+            "links": [
+                "MSDSE"
+            ]
+        },
+        {
+            "type": "ditem",
             "name": "Heiko Müller",
             "description": "<a href=\"http://cims.nyu.edu/~hmueller/\">Heiko Müller</a> is a Research Engineer at NYU's Center for Data Science",
             "ditem": 9,

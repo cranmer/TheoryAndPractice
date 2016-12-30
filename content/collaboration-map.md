@@ -7,7 +7,8 @@ Authors: Kyle Cranmer
 JavaScripts: d3.min.js, packages.js, collaboration-map.js, test-collaboration-map.js
 Stylesheets: concept-map.css, concept-map-padding.css
 
-This is my first attempt at a collaboration map -- it's woefully incomplete and it needs a wide browser window. 
+This is my first attempt at a collaboration map -- it's woefully incomplete and 
+I've largely omitted projects happening within the ATLAS collaboration.
 Check it out first, and then read the blog post below. The collaboration map has three components:
 
  * people: center

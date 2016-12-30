@@ -6,7 +6,22 @@ Slug: in-the-news
 Below are a collection of videos, pod casts, and news excerpts from my
 work.
 
+
+
 <div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">Vox</h3>
+  </div>
+  <div class="panel-body">
+
+<a href="http://www.vox.com/2016/9/21/12691576/lhc-cern-new-subatomic-particle">Why physicists really, really want to find a new subatomic particle</a>
+
+  </div>
+</div>
+
+
+
+<div class="panel panel-warning">
   <div class="panel-heading">
     <h3 class="panel-title">NPR Here and Now</h3>
   </div>
@@ -21,6 +36,18 @@ Physicists May Have Found New Fundamental Particle Of Nature -
 
   </div>
 </div>
+
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">Vox</h3>
+  </div>
+  <div class="panel-body">
+
+<a href="http://www.vox.com/science-and-health/2015/12/16/10295962/new-subatomic-particle-cern-hadron">Did we just discover a new subatomic particle? Scientists are being super cautious</a>
+
+  </div>
+</div>
+
 
 <div class="panel panel-warning">
   <div class="panel-heading">
