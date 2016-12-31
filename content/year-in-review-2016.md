@@ -2,15 +2,17 @@ Title: Year in Review: 2016
 date: 2016-12-30
 Slug: year-in-review-2016
 Category: Blog
-Tags: Machine Learning, Higgs, Open Science, Physics
+Tags: Machine Learning, Higgs, Open Science, Physics, reflection
 Authors: Kyle Cranmer
-JavaScripts: d3.min.js, packages.js, collaboration-map.js, test-collaboration-map.js
-Stylesheets: concept-map.css, concept-map-padding.css
+JavaScripts: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
 
+<!--
 ### Progress
 <div class="progress">
-  <div class="progress-bar progress-bar-danger" style="width: 10%"></div>
+  <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
 </div>
+-->
+
 
 Despite the reputation of 2016 as a terrible year, it was pretty good for me on a personal and professional level.
 Many of the ideas that were born during my [sabbaticall]({filename}/Sabbatical.md) matured this year. Many of my [collaborations]({filename}/collaboration-map.md) also flourished.
@@ -138,12 +140,72 @@ hosted in the US in more than a decade.
 <img src="/images/atlas-week-group-IMG_7192.JPG" alt="ATLAS Week photo" width="70%" align="center" />
 </div><br />
 
+### Data Science @ HEP 
+
+We organized a [Data Science @ HEP workshop at the Simons Center for Data Analysis](https://indico.hep.caltech.edu/indico/conferenceOtherViews.py?confId=102&view=standard) 
+in **July** immediately after ATLAS week. Gilles Louppe and Juan Pavez flew in, and 
+several NYU machine learning experts
+attended including Rob Fergus, Kyunghyun Cho, and Uri Shalit. This is where
+I first met Uri and I was grateful for how engaged he was during the workshop.
+That has started an ongoing discussions about machine learning and inference.
+
+During that workshop the physicists presented a few problems and data sets that could be used
+by the machine learning community. These ended up seeding several of the projects 
+I mention below regarding the Masters program in Data Science. 
+Rob and Kyunghyun made some nice suggestions for the 3d reconstruction of the 
+liquid argon time projection project.
+
+
+#### "Jet Sentences", QCD-Inspired Deep Learning, Jet Embeddings
+
+After the workshop in **July**, Kyunghyun and I had a few discussions about deep learning
+for particle physics. Kyunghyun does a lot of amazing work with natural language processing,
+and I spent some time trying to learn about those techniques. He drew a picture 
+that I left on my blackboard for more than a month, which gave birth to an idea
+and a new collaboration 
+
+One of the early successes in applying deep learning techniques to particle physics 
+problems was related to `jet tagging'. In jet tagging we want to classify a spray of 
+particles known as a 'jet' based on its progenitor. The first approach, known as 
+[Jet Images](https://arxiv.org/abs/1511.05190), treated the energy deposits in 
+our detectors like an image and then used fairly common deep learning techniques.
+While this was able to match or outperform the traditional approaches based on
+variables based on our understanding of the strong force (aka Quantum ChromoDynamics 
+or QCD), it felt somewhat unsatisfactory to me. First, it required discretizing the
+energy deposits into a regular grid, which both looses information and is not 
+an accurate reflection of our detector geometry. Secondly, the traditional 
+variables have theoretical properties, which the machine learning approaches 
+don't because they don't know anything about QCD.
+
+The idea that emerged was to make an analogy with natural language processing
+and jet reconstruction algorithms. In the analogy:
+
+   * word $\leftrightarrow$ particle
+   * sentence $\leftrightarrow$ jet
+   * parsing $\leftrightarrow$ clustering history of a jet algorithm
+
+The idea was that we would use the clustering history as the topology 
+for a recursive neural network. Those jet algorithms know a lot about
+QCD and have nice theoretical properties. Gilles Louppe worked with
+Cyril Becot to ge the jet algorithms integrated into the pipeline,
+and Gilles coded them up and came up with some clever ways to efficiently train
+these QCD-inspired recursive neural networks. We are now done with the studies,
+and should have a paper out in early 2017.
+
+
+<div align="center">
+<img src="{filename}/images/jet-embedding.png" alt "jet embedding" width="80%" />
+</div><br />
+
+
+
 ### Physics Track in the Masters of Data Science
 
-The [Master's in Data Science at NYU's Center for Data Science](http://cds.nyu.edu/academics/ms-in-data-science/) has been very successful, 
-with more than a thousand applications less than 100 spots. As part of the Moore-Sloan Data Science Environment at
-NYU, I spend quite a bit of time thinking about how we can develop a sustainable resource of data science in academia,
-which can focus on scientific problems. In **April** I had the idea of creating some sort of hybrid masters
+As part of the Moore-Sloan Data Science Environment at NYU, I spend quite a bit of time thinking 
+about how we can develop a sustainable resource of data science in academia,
+which can focus on scientific problems. 
+The [Master's in Data Science at NYU's Center for Data Science](http://cds.nyu.edu/academics/ms-in-data-science/) has been very successful, with more than a thousand applications less than 100 spots.  
+In **April** I had the idea of creating some sort of hybrid masters
 program between data science and physics. I proposed the idea and got a lot of encouragement to develop it further.
 The physics department gave leave from teaching in the fall to make it into a reality. We ended up creating a 
 *physics track* in the existing Masters of Data Science with special curriculum requirements. In addition to the 
@@ -153,7 +215,7 @@ relevant to physics research, but typically these projects are either seen as a 
 or the physics students don't really have the right skill set. In addition to being increasing the research capacity
 of the physics department, this program will help differentiate the graduates. Physicists are highly sought after
 in data science roles, so perhaps the students that go through this track will have a competitive advantage. 
-The Physics Department, the Faculty of Arts and Science, and the Center for Data Science approved the track in *September*. The program will start in the fall of 2017 and we are [taking applications now](http://cds.nyu.edu/academics/ms-in-data-science/).
+The Physics Department, the Faculty of Arts and Science, and the Center for Data Science approved the track in **September**. The program will start in the fall of 2017 and we are [taking applications now](http://cds.nyu.edu/academics/ms-in-data-science/).
 
 As a soft-launch for the Physics Track in the MS in Data Science, I proposed a few Capstone projects to the current masters students. Since the students don't have any particular physics background, it was also good practice for
 posing problems and preparing data in a way that does not require a lot of domain expertise. I was surprised that five groups picked my physics projects. So while I wasn't teaching in the fall, I was advising 15 masters students! I was impressed with the progress they made in one semester. The tweet below starts a thread that gives a short description of those five projects. 
@@ -164,14 +226,145 @@ posing problems and preparing data in a way that does not require a lot of domai
 </div><br />
 
 
-### Higgs Effective Field Theory
+### Higgs Effective Field Theory & Information Geometry 
+
+The first science driver of [the P5 Report](http://www.usparticlephysics.org/) is 
+*Use the Higgs boson as a new tool for discovery*. One of the primary strategies
+for doing this is to make precision measurements of the Higgs boson's properties.
+The Higgs boson of the Standard Model is completely specified, so measuring its 
+properties requires thinking of the Standard Model as a specific point in some
+larger space of theories. The most theoretically attractive way to do this is
+in the language of Effective Field Theory. There are entire conferences devoted
+to Higgs Effective Field Theory these days, so a breakthrough in this direction
+is very important.
+
+Most of the strategies for making measurements for Higgs effective field theory
+are based on picking one or two particularly good variables (observables) 
+that are sensitive to deviations from the Standard Model. Ideally, we would
+be able to use all the information in an event for these measurements, but 
+that is hard because the detector simulation leads to intractable likelihoods.
+This takes us back to the earlier point about likelihood-free inference.
+For the last year, Juan, Cyril, Lukas, Gilles, and I have been working on 
+applying carl and our likelihood-free inference techniques to Higgs effective field theory.
+I talked about this program of at seminars and colloquia at Yale, MIT, Rice, SLAC, Johns Hopkins, 
+and the Aspen Center for Physics. I'm pretty excited about it, but there's more to do!
+
+One of the obvious questions that arises when we start talking about a rather
+complicated sounding technique is ``how much do you gain?'' It's a good question,
+but we didn't really know the answer to it since it requires that you do the Higgs
+EFT analysis both ways... and that's a lot of work. Fortunately, while I was
+lecturing at [TASI 2016](https://physicslearning.colorado.edu/tasi/tasi_2016/tasi_2016.html), 
+Johann Brehmer approached me saying that he would be interested in pursuing this. 
+We had talked about it over beers when I was lecturing in [
+Heidelberg in 2015](http://gsfp.physi.uni-heidelberg.de/graddays_oktober_2015/).
+In particular, we had talked about starting with a simplified scenario where we idealize
+the detector response. This is common in 'phenomenological' studies by theorists. 
+Part of what made the project so compelling is that we brought in ideas from Information
+Geometry. In this setup, you have a statistical model $p(x|\theta)$, where $x$ is the data
+and $\theta$ are the parameters of the model to be inferred. With information geometry,
+you get to think about the space of the theory in terms of geometry. And there
+are some powerful theorems that relate this geometry to parameter estimates with 
+minimum variance. Information Geometry has been a passion of mine for more than a decade, 
+but this was the first time I was able to do something really interesting with it.
+We had a nice collaboration with Tilman Plehn and Felix Kling, but I think it's fair to say that
+Johann was really the force that pushed the paper 
+[*Better Higgs Measurements Through Information Geometry*](http://inspirehep.net/record/1504220) out the door.
+
+
+
+### Learning to pivot 
+
+One of the major obstacles to the adoption of machine learning techniques in the sciences
+is the presence of systematic uncertainties. In particle physics we typically use our 
+simulation to create synthetic, labeled data for training. The simulations have a number of 
+adjustable knobs that can be adjusted to describe the data. The settings of those knobs
+aren't known exactly, and that leads to systematic uncertainties.
+
+Typically we use some nominal settings for training and then propagate these uncertainties 
+through a fixed classifier. However, that approach isn't optimal. Ideally, the training 
+procedure would know about the sources of uncertainty and lead to a classifier that
+is robust to these sources of uncertainty. Gilles Louppe, Michael Kagan, and I figured
+out a way to do that by using a new technique in machine learning: adversarial training. 
+We called our technique "Learning to Pivot".
+
+<div align="center">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyann.lecun%2Fposts%2F10153940354257143&width=500" width="500" height="323" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div><br />
 
 
 ### NIPS
 
+The culmination of my professional year was a keynote talk at 
+[NIPS 2016](https://nips.cc/Conferences/2016) in Barcelona. 
+NIPS is considered [the top conference in machine learning](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems), and in recent years 
+it has grown exponentially. This year there were about 6000 people registered! 
+
+This was a challenging talk to give, not only because of the enormous audience,
+but also because it is not my core subject. It was an amazing opportunity 
+to communicate the interesting problems in particle physics and the opportunities
+for machine learning and artificial intelligence to radically impact our field. 
+
+On the first day of the conference, I attended excellent tutorials on [variational inference](https://nips.cc/Conferences/2016/Schedule?showEvent=6199) and 
+[Generative Adversarial Networks](https://nips.cc/Conferences/2016/Schedule?showEvent=6202). 
+I wanted to make references to both of these topics in my talk, and during the tutorials I had
+a profound realization. I realized that some of the recent work in those areas provides 
+a way to 
+[unify generative models and exact likelihood-free inference](http://beta.briefideas.org/ideas/5c2f74aedbf3618ca180382e393c7617). It was an odd time to have a big idea
+because I needed to be finalizing my talk. But it was also very relevant for my topic. 
+I discussed it with Gilles and then during the speaker's dinner on Tuesday night, I discussed it with 
+[Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow) and [Shakir Mohamed](http://shakirm.com/).
+Ian helped get me in touch with [Durk Kingma](http://dpkingma.com/). My talk was the next morning, but
+it was really dominating my thoughts. I added a row in a table that made reference to the idea, but
+I didn't spend any time discussing it. 
+
+I felt that the talk on Wednesday morning went pretty well. My talk was too long, and I knew it. 
+I sacrificed a lot of the meat and details for the over arching message, and I think that was 
+the right decision. I posted my slides to figshare, and I was astounded that in less than a week
+it was downloaded more than a thousand times! 
+
+After the talk, I took advantage of my time there to talk with Ian, Durk, 
+[Max Welling](https://www.ics.uci.edu/~welling/), and 
+[Neil Lawrence](http://inverseprobability.com/). I was so compelled by these
+new ideas that barely sleeping. I also had a fascinating discussion with 
+[Frank Wood](http://www.robots.ox.ac.uk/~fwood/) about probabilistic programming
+and likelihood free inference. On Sunday I spent the day walking around the city 
+with my former student Sven Kreiss on his Birthday. We visited the Sagrada Familia
+during the sunset and it was spectacular. I left Barcelona knowing that
+NIPS2016 was a transformational event for me. 
+
+<!--Drew Purves gave a fantastic keynote on Monday at NIPS with the message that
+"Nature needs AI, and AI needs nature". I echoed his -->
+
+
+<div align="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here are the slides from my talk at <a href="https://twitter.com/hashtag/NIPS2016?src=hash">#NIPS2016</a> on machine learning &amp; likelihood-free inference for particle physics<a href="https://t.co/pvmPCFexyZ">https://t.co/pvmPCFexyZ</a> <a href="https://t.co/72EDdwVnXE">pic.twitter.com/72EDdwVnXE</a></p>&mdash; Kyle Cranmer (@KyleCranmer) <a href="https://twitter.com/KyleCranmer/status/806537845909422080">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><br />
 
+
+### DIANA 
+
+Immediately after NIPS our DIANA group had an end of the year meeting. 
+Gilles, Lukas, and I put together some slides reviewing the year and our
+future plans.  The various threads
+of my research have always been part of a bigger picture, but   
+for one of the first times I feel like the various threads
+of my research are really coming together. It's a good feeling,
+and I'm looking forward to 2017!
+
+**Happy New Year!**
+
+<!--
+  <img src="/images/year-in-review-GH-2016.png" alt="GitHub Activity in 2016" width="90%" />
+-->
+<div class="embed-responsive embed-responsive-16by9">
+
+  <iframe src="https://docs.google.com/presentation/d/1So1U6v-e6Ai88gXw1Toy-9OzYNnGwCrCnYMngLeB1l8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+
+
+<!--
 **February & March** 
 
 *  CARL
@@ -234,9 +427,4 @@ posing problems and preparing data in a way that does not require a lot of domai
   * DIANA summary
   * CDS Masters : first projects
   * [Collaboration Map](/collaboration-map/)
-
-
-  <img src="/images/year-in-review-GH-2016.png" alt="GitHub Activity in 2016" width="90%" />
-
-  <iframe src="https://docs.google.com/presentation/d/1So1U6v-e6Ai88gXw1Toy-9OzYNnGwCrCnYMngLeB1l8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+-->
