@@ -1,0 +1,5 @@
+pelican==3.7.1
+Markdown
+fabric
+beautifulsoup4
+ipython[notebook]==4.0

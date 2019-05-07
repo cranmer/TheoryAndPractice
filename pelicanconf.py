@@ -23,7 +23,7 @@ MENUITEMS = (
 			('Media & Outreach','/pages/in-the-news.html'),)
 
 
-LINKS =  (('My group', 'http://physics.nyu.edu/experimentalparticle/'),
+LINKS =  (('My group', 'https://physics.nyu.edu/experimentalparticle/'),
           ('CCPP','http://cosmo.nyu.edu/'),
           ('CDS','http://cds.nyu.edu/'),
           ('DIANA','http://diana-hep.org/'),
@@ -88,15 +88,16 @@ READERS = {'html': None}
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
-PLUGIN_PATHS = ['../pelican-plugins/']
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
   'liquid_tags.youtube', 'tag_cloud',
   'render_math', 
   'pelican_javascript',
   'liquid_tags.include_code', 
   'i18n_subsites',
-  'pelican-ipynb.liquid' ,'liquid_tags.literal'] 
+  'pelican-ipynb.liquid','liquid_tags.literal'] 
 #  'liquid_tags.notebook','liquid_tags.literal'] 
+#  'pelican-ipynb' ,'liquid_tags.literal'] 
 
 #
 
@@ -105,7 +106,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 
 #, 'liquid_tags.thebe']
 
-THEME = 'pelican-bootstrap3'
+THEME = 'pelican-themes/pelican-bootstrap3'
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
 

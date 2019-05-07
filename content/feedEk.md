@@ -4,7 +4,7 @@ Slug: FeedEk
 Category: Blog
 Tags: visualization
 Authors: Kyle Cranmer
-JavaScripts:  http://momentjs.com/downloads/moment.min.js, FeedEk.js, test-FeedEk.js,test-FeedEk-minimal.js
+JavaScripts:  https://code.jquery.com/jquery-1.9.1.min.js, FeedEk.js, FeedEk.min.js, test-FeedEk.js, test-FeedEk-minimal.js
 Stylesheets: FeedEk.css
 
 

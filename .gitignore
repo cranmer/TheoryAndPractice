@@ -3,3 +3,4 @@
 *.pyc
 *.swp
 output/
+content/.DS_Store

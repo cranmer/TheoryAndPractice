@@ -7,7 +7,7 @@ Slug: Research
 ## Bio (useful for introductions):
 <!--Kyle Cranmer is an Associate Professor of Physics at New York University and Affiliated Faculty member at NYU's Center for Data Science.  He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland.  Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his B.A. in Mathematics and Physics from Rice University.  In 2007, he was awarded the Presidential Early Career Award for Science and Engineering from President George W. Bush via the Department of Energy's Office of Science and in 2009 he was awarded the National Science Foundation's Career Award.  Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012.-->
 
-Kyle Cranmer is an Associate Professor of Physics at New York University and affiliated with NYU's Center for Data Science. He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland. Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his 
+Kyle Cranmer is a Professor of Physics and Data Science at New York University. He is an experimental particle physicists working, primarily, on the Large Hadron Collider, based in Geneva, Switzerland. Professor Cranmer obtained his Ph.D. in Physics from the University of Wisconsin-Madison in 2005 and his 
 B.A. in Mathematics and Physics from Rice University. 
 He was awarded the Presidential Early Career Award for Science and Engineering in 2007 and the National Science Foundation's Career Award in 2009. Professor Cranmer developed a framework that enables collaborative statistical modeling, which was used extensively for the discovery of the Higgs boson in July, 2012. His current interests are at the intersection of physics, statistics, and machine learning.
 
@@ -112,56 +112,6 @@ Recently, I've been particularly interested in inference in the context of intra
 
 - - -
 
-
-
-##Recent Publications 
-
-
-<!-- using bootstrap3 grid layout here -->
-<div class="row">
-  <div class="col-md-12">
-		  	<script type="text/javascript">
-		<!--		rssmikle_url="http://inspirehep.net/rss?ln=en&p=a%3AK.S.Cranmer.1";-->
-		rssmikle_url="http://feeds.feedburner.com/inspirehep/Lrwp";
-		rssmikle_frame_width="100%";
-		rssmikle_frame_height="600";
-		rssmikle_target="_blank";
-		rssmikle_font="Lato, Open Sans,Calibri,Candara,Arial,sans-serif";
-		rssmikle_font_size="11";
-		rssmikle_border="on";
-		responsive="on";
-		rssmikle_css_url="";
-		text_align="left";
-		autoscroll="off";
-		scrollstep="3";
-		mcspeed="20";
-		sort="New";
-		rssmikle_title="on";
-		rssmikle_title_sentence="Recent Publications";
-		rssmikle_title_link="http://inspirehep.net/?p=a%3AK.S.Cranmer.1";
-		rssmikle_title_bgcolor="#2C3E50";
-		rssmikle_title_color="#FFFFFF";
-		rssmikle_title_bgimage="http://";
-		rssmikle_item_bgcolor="#FFFFFF";
-		rssmikle_item_bgimage="http://";
-		rssmikle_item_title_length="200";
-		rssmikle_item_title_color="#666666";
-		rssmikle_item_border_bottom="on";
-		rssmikle_item_description="off";
-		rssmikle_item_description_length="150";
-		rssmikle_item_description_color="#666666";
-		rssmikle_item_date="off";
-		rssmikle_timezone="Etc/GMT";
-		datetime_format="%b %e, %Y %l:%M:%S %p";
-		rssmikle_item_description_tag="off";
-		rssmikle_item_podcast="off";
-		</script>
-		<script type="text/javascript" src="http://widget.feed.mikle.com/js/rssmikle.js"></script>
-		<div style="font-size:10px; text-align:center; width:300;">
-		<a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
-		</div>
-  </div>
-</div>
 
 <br >
 
