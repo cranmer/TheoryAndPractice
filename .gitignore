@@ -4,3 +4,4 @@
 *.swp
 output/
 content/.DS_Store
+.DS_Store

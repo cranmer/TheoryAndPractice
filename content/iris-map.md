@@ -15,6 +15,8 @@ This is a variation on the other [Collaboration map](/2016/12/collaboration-map/
 
 One nice thing about this appraoch is that the [input is JSON](/downloads/files/collaboration.json) (here's an example on GitHub [link](https://github.com/cranmer/TheoryAndPractice/blob/javascript/content/downloads/files/collaboration.json) ), so it should be easy to collaboratively guild this collaboration graph. 
 
+I'd like to make something easier to edit with yaml and then convert it to JSON.
+
 The interactive visualization at the top is my first try at a collaboration map. 
 
 

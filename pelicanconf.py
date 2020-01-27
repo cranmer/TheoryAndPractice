@@ -26,10 +26,12 @@ MENUITEMS = (
 LINKS =  (('My group', 'https://physics.nyu.edu/experimentalparticle/'),
           ('CCPP','http://cosmo.nyu.edu/'),
           ('CDS','http://cds.nyu.edu/'),
-          ('DIANA','http://diana-hep.org/'),
-          ('MSDSE','http://msdse.org'),
+          ('IRIS-HEP','https://iris-hep.org/'),
+          ('DIANA','https://diana-hep.org/'),
+          ('MSDSE','https://msdse.org'),
           ('DASPOS','http://daspos.org/'),
-          )
+          ('SCAILFIN', 'https://scailfin.github.io'),
+        )
 
 
 '''

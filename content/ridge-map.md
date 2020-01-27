@@ -2,7 +2,7 @@ Title:  RidgeMap
 date: 2019-05-05
 Slug: RidgeMap
 Category: Blog
-Tags:  python
+Tags:  python, visualization
 Authors: Kyle Cranmer
 
 The other day I saw this tweet:
