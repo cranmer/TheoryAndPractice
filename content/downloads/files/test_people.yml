@@ -1,0 +1,76 @@
+ditems:
+- name: Peter Elmer
+  links:
+  - CMS
+  - DIANA
+  - Executive Board
+  - Steering Board
+  - Innovative Algorithms
+- name: Brian Bockelman
+  links:
+  - DOMA
+  - DIANA
+  - OSG
+  - Executive Board
+  - xcache
+  - iDDS
+  - third party copy
+- name: Gordon Watts
+  links:
+  - ATLAS
+  - Analysis Systems
+  - Executive Board
+  - Steering Board
+  - func_adl
+- name: David Lange
+  links:
+  - CMS
+  - Innovative Algorithms
+  - Executive Board
+  - acts
+- name: Heather Gray
+  links:
+  - ATLAS
+  - Innovative Algorithms
+  - Executive Board
+  - acts
+- name: Frank Wuerthwein
+  links:
+  - CMS
+  - OSG
+  - Executive Board
+  - modeling data workflows
+- name: Sudhir Malik
+  links:
+  - CMS
+  - Training, Education and Outreach
+  - Executive Board
+- name: Rob Gardner
+  links:
+  - ATLAS
+  - SSL
+  - Executive Board
+- name: Mark Neubaeur
+  links:
+  - ATLAS
+  - Blueprint
+  - Analysis Systems
+  - Innovative Algorithms
+  - Executive Board
+  - ML on FPGAs
+- name: Kyle Cranmer
+  links:
+  - Analysis Systems
+  - Innovative Algorithms
+  - Executive Board
+  - Recast
+  - pyhf
+  - MadMiner
+  - REANA
+  - ML for Jets
+  - ATLAS
+  - INSPIRE
+  - HEPData
+  - MSDSE
+  - DIANA
+  - DASPOS

@@ -1,0 +1,56 @@
+{
+ "ditems": [
+  {
+   "name": "Pete Elmer",
+   "description": "",
+   "links": [
+    "CMS",
+    "DIANA",
+    "Executive Board",
+    "Innovative Algorithms",
+    "Analysis Systems"
+   ],
+   "date": "2020-01-01 00:00:00",
+   "slug": "ditem",
+   "type": "ditem",
+   "ditem": 1
+  },
+  {
+   "name": "Brian Bockelman",
+   "links": [
+    "DOMA",
+    "DIANA",
+    "OSG",
+    "Executive Board",
+    "xcache",
+    "iDDS",
+    "third party copy"
+   ],
+   "date": "2020-01-01 00:00:00",
+   "slug": "ditem",
+   "description": "",
+   "type": "ditem",
+   "ditem": 2
+  }
+ ],
+ "collaborations": [
+  {
+   "name": "ATLAS",
+   "description": "<a href=\"http://atlas.cern\">ATLAS is an experiment at CERN designed to explore the secrets of the universe.</a>",
+   "date": "2020-01-01 00:00:00",
+   "slug": "slug",
+   "group": 1,
+   "type": "collaboration",
+   "count": 1
+  },
+  {
+   "name": "CMS",
+   "description": "<a href=\"http://cms.cern\">CMS is an experiment at CERN designed to explore the secrets of the universe.</a>",
+   "date": "2020-01-01 00:00:00",
+   "slug": "slug",
+   "group": 1,
+   "type": "collaboration",
+   "count": 2
+  }
+ ]
+}

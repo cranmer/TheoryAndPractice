@@ -1,0 +1,393 @@
+{
+ "ditems": [
+  {
+   "name": "Peter Elmer",
+   "links": [
+    "CMS",
+    "DIANA",
+    "Executive Board",
+    "Steering Board",
+    "Innovative Algorithms"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 1
+  },
+  {
+   "name": "Brian Bockelman",
+   "links": [
+    "DOMA",
+    "DIANA",
+    "OSG",
+    "Executive Board",
+    "xcache",
+    "iDDS",
+    "third party copy"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 2
+  },
+  {
+   "name": "Gordon Watts",
+   "links": [
+    "ATLAS",
+    "Analysis Systems",
+    "Executive Board",
+    "Steering Board",
+    "func_adl"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 3
+  },
+  {
+   "name": "David Lange",
+   "links": [
+    "CMS",
+    "Innovative Algorithms",
+    "Executive Board",
+    "acts"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 4
+  },
+  {
+   "name": "Heather Gray",
+   "links": [
+    "ATLAS",
+    "Innovative Algorithms",
+    "Executive Board",
+    "acts"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 5
+  },
+  {
+   "name": "Frank Wuerthwein",
+   "links": [
+    "CMS",
+    "OSG",
+    "Executive Board",
+    "modeling data workflows"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 6
+  },
+  {
+   "name": "Sudhir Malik",
+   "links": [
+    "CMS",
+    "Training, Education and Outreach",
+    "Executive Board"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 7
+  },
+  {
+   "name": "Rob Gardner",
+   "links": [
+    "ATLAS",
+    "SSL",
+    "Executive Board"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 8
+  },
+  {
+   "name": "Mark Neubaeur",
+   "links": [
+    "ATLAS",
+    "Blueprint",
+    "Analysis Systems",
+    "Innovative Algorithms",
+    "Executive Board",
+    "ML on FPGAs"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 9
+  },
+  {
+   "name": "Kyle Cranmer",
+   "links": [
+    "Analysis Systems",
+    "Innovative Algorithms",
+    "Executive Board",
+    "Recast",
+    "pyhf",
+    "MadMiner",
+    "REANA",
+    "ML for Jets",
+    "ATLAS",
+    "INSPIRE",
+    "HEPData",
+    "MSDSE",
+    "DIANA",
+    "DASPOS"
+   ],
+   "description": "",
+   "type": "ditem",
+   "ditem": 10
+  }
+ ],
+ "collaborations": [
+  {
+   "name": "ATLAS",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 1
+  },
+  {
+   "name": "CMS",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 2
+  },
+  {
+   "name": "LHCb",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 3
+  },
+  {
+   "name": "DOMA",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 4
+  },
+  {
+   "name": "Analysis Systems",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 5
+  },
+  {
+   "name": "Innovative Algorithms",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 6
+  },
+  {
+   "name": "SSL",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 7
+  },
+  {
+   "name": "Blueprint",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 8
+  },
+  {
+   "name": "Executive Board",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 9
+  },
+  {
+   "name": "Steering Board",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 10
+  },
+  {
+   "name": "Advisory Board",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 11
+  },
+  {
+   "name": "Training, Education and Outreach",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 12
+  },
+  {
+   "name": "OSG",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 13
+  },
+  {
+   "name": "SCAILFIN",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 14
+  },
+  {
+   "name": "DIANA",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 15
+  },
+  {
+   "name": "DASPOS",
+   "group": 1,
+   "description": "",
+   "type": "collaboration",
+   "count": 16
+  }
+ ],
+ "projects": [
+  {
+   "name": "pyhf",
+   "description": "",
+   "type": "project",
+   "count": 1
+  },
+  {
+   "name": "func_adl",
+   "description": "",
+   "type": "project",
+   "count": 2
+  },
+  {
+   "name": "Coffea",
+   "description": "",
+   "type": "project",
+   "count": 3
+  },
+  {
+   "name": "uproot",
+   "description": "",
+   "type": "project",
+   "count": 4
+  },
+  {
+   "name": "Awkward Array",
+   "description": "",
+   "type": "project",
+   "count": 5
+  },
+  {
+   "name": "Recast",
+   "description": "",
+   "type": "project",
+   "count": 6
+  },
+  {
+   "name": "REANA",
+   "description": "",
+   "type": "project",
+   "count": 7
+  },
+  {
+   "name": "MadMiner",
+   "description": "",
+   "type": "project",
+   "count": 8
+  },
+  {
+   "name": "Scikit-Hep",
+   "description": "",
+   "type": "project",
+   "count": 9
+  },
+  {
+   "name": "Histogram projects",
+   "description": "",
+   "type": "project",
+   "count": 10
+  },
+  {
+   "name": "Ampgen",
+   "description": "",
+   "type": "project",
+   "count": 11
+  },
+  {
+   "name": "particle",
+   "description": "",
+   "type": "project",
+   "count": 12
+  },
+  {
+   "name": "xcache",
+   "description": "",
+   "type": "project",
+   "count": 13
+  },
+  {
+   "name": "iDDS",
+   "description": "",
+   "type": "project",
+   "count": 14
+  },
+  {
+   "name": "third party copy",
+   "description": "",
+   "type": "project",
+   "count": 15
+  },
+  {
+   "name": "modeling data workflows",
+   "description": "",
+   "type": "project",
+   "count": 16
+  },
+  {
+   "name": "ServiceX",
+   "description": "",
+   "type": "project",
+   "count": 17
+  },
+  {
+   "name": "acts",
+   "description": "",
+   "type": "project",
+   "count": 18
+  },
+  {
+   "name": "fast-pid",
+   "description": "",
+   "type": "project",
+   "count": 19
+  },
+  {
+   "name": "mkfit",
+   "description": "",
+   "type": "project",
+   "count": 20
+  },
+  {
+   "name": "ML on FPGAs",
+   "description": "",
+   "type": "project",
+   "count": 21
+  },
+  {
+   "name": "PV-finder",
+   "description": "",
+   "type": "project",
+   "count": 22
+  },
+  {
+   "name": "ML for Jets",
+   "description": "",
+   "type": "project",
+   "count": 23
+  }
+ ]
+}

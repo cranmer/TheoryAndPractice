@@ -1,0 +1,68 @@
+{
+ "collaborations": [
+  {
+   "count": "10",
+   "description": "<a href=\"http://atlas.cern\">ATLAS is an experiment at CERN designed to explore the secrets of the universe.</a>",
+   "group": "1",
+   "name": "ATLAS",
+   "slug": "atlas",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"http://cms.cern\">CMS is an experiment at CERN designed to explore the secrets of the universe.</a>",
+   "group": "1",
+   "name": "CMS",
+   "slug": "cms",
+   "type": "collaboration"
+  }
+ ],
+ "ditems": [
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "CMS",
+    "DIANA",
+    "Executive Board",
+    "Innovative Algorithms",
+    "Analysis Systems"
+   ],
+   "name": "Pete Elmerrrrrr",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "Tilman Plehn is ",
+   "ditem": 9,
+   "links": [
+    "DOMA",
+    "DIANA",
+    "OSG",
+    "Executive Board",
+    "xcache",
+    "iDDS",
+    "third party copy"
+   ],
+   "name": "Brian Bockelman",
+   "slug": "ditem",
+   "type": "ditem"
+  }
+ ],
+ "projects": [
+  {
+   "description": "The statistical tools used widely at the LHC, and almost exclusively for the Higgs discovery.",
+   "name": "RooStats",
+   "slug": "roostats",
+   "type": "project"
+  },
+  {
+   "description": "A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches.",
+   "name": "HistFactory",
+   "slug": "histfactory",
+   "type": "project"
+  }
+ ]
+}

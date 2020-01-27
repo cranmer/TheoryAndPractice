@@ -1,0 +1,24 @@
+projects:
+- name: pyhf
+- name: func_adl
+- name: Coffea
+- name: uproot
+- name: Awkward Array
+- name: Recast
+- name: REANA
+- name: MadMiner
+- name: Scikit-Hep
+- name: Histogram projects
+- name: Ampgen
+- name: particle
+- name: xcache
+- name: iDDS
+- name: third party copy
+- name: modeling data workflows
+- name: ServiceX
+- name: acts
+- name: fast-pid
+- name: mkfit
+- name: ML on FPGAs
+- name: PV-finder
+- name: ML for Jets

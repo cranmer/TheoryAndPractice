@@ -1,0 +1,484 @@
+{
+ "collaborations": [
+  {
+   "count": "10",
+   "description": "<a href=\"http://atlas.cern\">ATLAS is an experiment at CERN designed to explore the secrets of the universe.</a>",
+   "group": "1",
+   "name": "ATLAS",
+   "slug": "atlas",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"http://cms.cern\">CMS is an experiment at CERN designed to explore the secrets of the universe.</a>",
+   "group": "1",
+   "name": "CMS",
+   "slug": "cms",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"http://lhcb-public.web.cern.ch/lhcb-public/\">LHCb is an experiment set up to explore what happened after the Big Bang that allowed matter to survive and build the Universe we inhabit today</a>",
+   "group": "1",
+   "name": "LHCb",
+   "slug": "lhcb",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "An old experiment at LEP <a href=\"https://www.wired.com/2015/01/higgs-discovery-hijack-attempt/\">that motivated my interest in data and software preservation</a>",
+   "group": "1",
+   "name": "DOMA",
+   "slug": "doma",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "An experiment at Jefferson Lab looking for a fifth force carried by a \"dark photon\".",
+   "group": "1",
+   "name": "Analysis Systems",
+   "slug": "as",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "SSL",
+   "slug": "ssl",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "Innovative Algorithms",
+   "slug": "ia",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "Blueprint",
+   "slug": "blueprint",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "Executive Board",
+   "slug": "eb",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "Steering Board",
+   "slug": "steering",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "Advisory Board",
+   "slug": "ab",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "Training, Education and Outreach",
+   "slug": "training",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"http://diana-hep.org\">Sustainable Software for High Energy Physics</a>",
+   "group": "1",
+   "name": "DIANA",
+   "slug": "diana",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"https://daspos.crc.nd.edu\">Data And Software Preservation for High Energy Physics</a>",
+   "group": "1",
+   "name": "DASPOS",
+   "slug": "daspos",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "CERN Analysis Preservation project",
+   "group": "1",
+   "name": "CAP",
+   "slug": "cap",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"http://inspirehep.net\">INSPIRE: High Energy physics Literature Database</a>",
+   "group": "1",
+   "name": "INSPIRE",
+   "slug": "inspire",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "",
+   "group": "1",
+   "name": "OSG",
+   "slug": "osg",
+   "type": "collaboration"
+  },
+  {
+   "count": "10",
+   "description": "<a href=\"https://hepdata.net\">HEPData: High Energy Physics Data Repository</a>",
+   "group": "1",
+   "name": "HEPData",
+   "slug": "hepdata",
+   "type": "collaboration"
+  }
+ ],
+ "ditems": [
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "CMS",
+    "DIANA",
+    "Executive Board",
+    "Innovative Algorithms",
+    "Analysis Systems"
+   ],
+   "name": "Pete Elmer",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "Tilman Plehn is ",
+   "ditem": 9,
+   "links": [
+    "DOMA",
+    "DIANA",
+    "OSG",
+    "Executive Board",
+    "xcache",
+    "iDDS",
+    "third party copy"
+   ],
+   "name": "Brian Bockelman",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "ATLAS",
+    "Analysis Systems",
+    "Executive Board"
+   ],
+   "name": "Gordon Watts",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "CMS",
+    "Innovative Algorithms",
+    "Executive Board",
+    "acts"
+   ],
+   "name": "David Lange",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "ATLAS",
+    "Innovative Algorithms",
+    "Executive Board"
+   ],
+   "name": "Heather Gray",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "CMS",
+    "OSG",
+    "Executive Board",
+    "modeling data workflows"
+   ],
+   "name": "Frank Wuerthwein",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "CMS",
+    "Training, Education and Outreach",
+    "Executive Board"
+   ],
+   "name": "Sudhir Malik",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "ATLAS",
+    "SSL",
+    "Executive Board"
+   ],
+   "name": "Rob Gardner",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 7,
+   "links": [
+    "ATLAS",
+    "Blueprint",
+    "Analysis Systems",
+    "Innovative Algorithms",
+    "Executive Board"
+   ],
+   "name": "Mark Neubaeur",
+   "slug": "ditem",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-05 23:50:11",
+   "description": "<a href=\"http://theoryandpractice.org\">Kyle Cranmer</a> is a professor of phyiscs and data science at NYU.",
+   "ditem": 1,
+   "links": [
+    "Analysis Systems",
+    "Innovative Algorithms",
+    "Executive Board",
+    "Recast",
+    "RooStats",
+    "HistFactory",
+    "yadage",
+    "decouple",
+    "Higgs EFT",
+    "Information Geometry",
+    "Gaussian Processes",
+    "UnicodeIt",
+    "Jet Embeddings",
+    "ML w/ Systematics",
+    "Physics AI",
+    "ATLAS",
+    "ALEPH",
+    "APEX",
+    "Crayfis",
+    "INSPIRE",
+    "HEPData",
+    "MSDSE",
+    "DIANA",
+    "DASPOS",
+    "CAP",
+    "CDS@NYU",
+    "CCPP@NYU",
+    "EPP@NYU"
+   ],
+   "name": "Kyle Cranmer",
+   "slug": "ditem-kyle-cranmer",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "<a href=\"http://www.lukasheinrich.com/\">Lukas Heinrich</a>",
+   "ditem": 2,
+   "links": [
+    "Recast",
+    "yadage",
+    "Higgs EFT",
+    "Information Geometry",
+    "Jet Embeddings",
+    "Physics AI",
+    "ATLAS",
+    "HEPData",
+    "CAP",
+    "DIANA",
+    "DASPOS",
+    "CAP",
+    "CDS@NYU",
+    "CCPP@NYU",
+    "EPP@NYU"
+   ],
+   "name": "Lukas Heinrich",
+   "slug": "ditem-lukas-heinrich",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "<a href=\"https://glouppe.github.io//\">Gilles Louppe</a>",
+   "ditem": 3,
+   "links": [
+    "Carl",
+    "Higgs EFT",
+    "Jet Embeddings",
+    "ML w/ Systematics",
+    "scikit-optimize",
+    "Physics AI",
+    "ATLAS",
+    "INSPIRE",
+    "MSDSE",
+    "DIANA",
+    "CDS@NYU",
+    "EPP@NYU"
+   ],
+   "name": "Gilles Louppe",
+   "slug": "ditem-gilles-louppe",
+   "type": "ditem"
+  },
+  {
+   "date": "2012-05-09 15:53:27",
+   "description": "",
+   "ditem": 5,
+   "links": [
+    "Higgs EFT",
+    "Information Geometry"
+   ],
+   "name": "Johann Brehmer",
+   "slug": "ditem",
+   "type": "ditem"
+  }
+ ],
+ "projects": [
+  {
+   "description": "The statistical tools used widely at the LHC, and almost exclusively for the Higgs discovery.",
+   "name": "RooStats",
+   "slug": "roostats",
+   "type": "project"
+  },
+  {
+   "description": "A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches.",
+   "name": "HistFactory",
+   "slug": "histfactory",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "Coffea",
+   "slug": "coffea",
+   "type": "project"
+  },
+  {
+   "description": "A project to make it possible to reinterpret experimental results in the context of a different theoretical  model.",
+   "name": "Recast",
+   "slug": "recast",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "REANA",
+   "slug": "reana",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "MadMiner",
+   "slug": "madminer",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "Ampgen",
+   "slug": "ampgen",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "Scikit-Hep",
+   "slug": "scikit-hep",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "xcache",
+   "slug": "xcache",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "iDDS",
+   "slug": "iDDS",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "third party copy",
+   "slug": "tpc",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "modeling data workflows",
+   "slug": "mdw",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "acts",
+   "slug": "acts",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "fast-pid",
+   "slug": "fast-pid",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "mkfit",
+   "slug": "mkfit",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "ML on FPGAs",
+   "slug": "mlfpga",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "PV-finder",
+   "slug": "pv-finder",
+   "type": "project"
+  },
+  {
+   "description": "",
+   "name": "ML for Jets",
+   "slug": "ml4jets",
+   "type": "project"
+  }
+ ]
+}

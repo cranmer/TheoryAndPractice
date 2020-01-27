@@ -1,0 +1,222 @@
+collaborations:
+- description: <a href="http://atlas.cern">ATLAS is an experiment at CERN designed
+    to explore the secrets of the universe.</a>
+  name: ATLAS
+- description: <a href="http://cms.cern">CMS is an experiment at CERN designed to
+    explore the secrets of the universe.</a>
+  name: CMS
+- description: <a href="http://lhcb-public.web.cern.ch/lhcb-public/">LHCb is an experiment
+    set up to explore what happened after the Big Bang that allowed matter to survive
+    and build the Universe we inhabit today</a>
+  name: LHCb
+- description: An old experiment at LEP <a href="https://www.wired.com/2015/01/higgs-discovery-hijack-attempt/">that
+    motivated my interest in data and software preservation</a>
+  name: DOMA
+- description: An experiment at Jefferson Lab looking for a fifth force carried by
+    a "dark photon".
+  name: Analysis Systems
+- description: ''
+  name: SSL
+- description: ''
+  name: Innovative Algorithms
+- description: ''
+  name: Blueprint
+- description: ''
+  name: Executive Board
+- description: ''
+  name: Steering Board
+- description: ''
+  name: Advisory Board
+- description: ''
+  name: Training, Education and Outreach
+- description: <a href="http://diana-hep.org">Sustainable Software for High Energy
+    Physics</a>
+  name: DIANA
+- description: <a href="https://daspos.crc.nd.edu">Data And Software Preservation
+    for High Energy Physics</a>
+  name: DASPOS
+- description: CERN Analysis Preservation project
+  name: CAP
+- description: '<a href="http://inspirehep.net">INSPIRE: High Energy physics Literature
+    Database</a>'
+  name: INSPIRE
+- description: ''
+  name: OSG
+- description: '<a href="https://hepdata.net">HEPData: High Energy Physics Data Repository</a>'
+  name: HEPData
+ditems:
+- description: ''
+  links:
+  - CMS
+  - DIANA
+  - Executive Board
+  - Innovative Algorithms
+  - Analysis Systems
+  name: Pete Elmer
+- description: 'Tilman Plehn is '
+  links:
+  - DOMA
+  - DIANA
+  - OSG
+  - Executive Board
+  - xcache
+  - iDDS
+  - third party copy
+  name: Brian Bockelman
+- description: ''
+  links:
+  - ATLAS
+  - Analysis Systems
+  - Executive Board
+  name: Gordon Watts
+- description: ''
+  links:
+  - CMS
+  - Innovative Algorithms
+  - Executive Board
+  - acts
+  name: David Lange
+- description: ''
+  links:
+  - ATLAS
+  - Innovative Algorithms
+  - Executive Board
+  name: Heather Gray
+- description: ''
+  links:
+  - CMS
+  - OSG
+  - Executive Board
+  - modeling data workflows
+  name: Frank Wuerthwein
+- description: ''
+  links:
+  - CMS
+  - Training, Education and Outreach
+  - Executive Board
+  name: Sudhir Malik
+- description: ''
+  links:
+  - ATLAS
+  - SSL
+  - Executive Board
+  name: Rob Gardner
+- description: ''
+  links:
+  - ATLAS
+  - Blueprint
+  - Analysis Systems
+  - Innovative Algorithms
+  - Executive Board
+  name: Mark Neubaeur
+- description: <a href="http://theoryandpractice.org">Kyle Cranmer</a> is a professor
+    of phyiscs and data science at NYU.
+  links:
+  - Analysis Systems
+  - Innovative Algorithms
+  - Executive Board
+  - Recast
+  - RooStats
+  - HistFactory
+  - yadage
+  - decouple
+  - Higgs EFT
+  - Information Geometry
+  - Gaussian Processes
+  - UnicodeIt
+  - Jet Embeddings
+  - ML w/ Systematics
+  - Physics AI
+  - ATLAS
+  - ALEPH
+  - APEX
+  - Crayfis
+  - INSPIRE
+  - HEPData
+  - MSDSE
+  - DIANA
+  - DASPOS
+  - CAP
+  - CDS@NYU
+  - CCPP@NYU
+  - EPP@NYU
+  name: Kyle Cranmer
+- description: <a href="http://www.lukasheinrich.com/">Lukas Heinrich</a>
+  links:
+  - Recast
+  - yadage
+  - Higgs EFT
+  - Information Geometry
+  - Jet Embeddings
+  - Physics AI
+  - ATLAS
+  - HEPData
+  - CAP
+  - DIANA
+  - DASPOS
+  - CAP
+  - CDS@NYU
+  - CCPP@NYU
+  - EPP@NYU
+  name: Lukas Heinrich
+- description: <a href="https://glouppe.github.io//">Gilles Louppe</a>
+  links:
+  - Carl
+  - Higgs EFT
+  - Jet Embeddings
+  - ML w/ Systematics
+  - scikit-optimize
+  - Physics AI
+  - ATLAS
+  - INSPIRE
+  - MSDSE
+  - DIANA
+  - CDS@NYU
+  - EPP@NYU
+  name: Gilles Louppe
+- description: ''
+  links:
+  - Higgs EFT
+  - Information Geometry
+  name: Johann Brehmer
+projects:
+- description: The statistical tools used widely at the LHC, and almost exclusively
+    for the Higgs discovery.
+  name: RooStats
+- description: A tool for building statistical models based on histogram templates,
+    with a rich set of components for modeling systeamtic uncertainties through simulation-based
+    and data-driven approaches.
+  name: HistFactory
+- description: ''
+  name: Coffea
+- description: A project to make it possible to reinterpret experimental results in
+    the context of a different theoretical  model.
+  name: Recast
+- description: ''
+  name: REANA
+- description: ''
+  name: MadMiner
+- description: ''
+  name: Ampgen
+- description: ''
+  name: Scikit-Hep
+- description: ''
+  name: xcache
+- description: ''
+  name: iDDS
+- description: ''
+  name: third party copy
+- description: ''
+  name: modeling data workflows
+- description: ''
+  name: acts
+- description: ''
+  name: fast-pid
+- description: ''
+  name: mkfit
+- description: ''
+  name: ML on FPGAs
+- description: ''
+  name: PV-finder
+- description: ''
+  name: ML for Jets
