@@ -10,7 +10,9 @@ Stylesheets: concept-map.css, concept-map-padding.css
 
 ### Long-term projects:
 
-  *  [DIANA/HEP ](http://diana-hep.org): Sustainable Software for high energy physics
+  *  [IRIS-HEP ](https://iris-hep.org): Sustainable Software for high energy physics
+
+  *  [DIANA/HEP ](https://diana-hep.org): Sustainable Software for high energy physics
 
 
   -   Reproducibility & Reinterpretability: 
@@ -20,6 +22,8 @@ Stylesheets: concept-map.css, concept-map-padding.css
 
     - [Analysis Preservation @ CERN](https://github.com/cernanalysispreservation): 
 
+    * [Reana](http://reanahub.io): Reproducible research data analysis platform (spinoff from RECAST)
+
     * [yadage](http://yadage.readthedocs.io): a language and engine for flexible, distributed workflows (mainly by [Lukas Heinrich](http://www.lukasheinrich.com/) - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
 
 
@@ -27,12 +31,14 @@ Stylesheets: concept-map.css, concept-map-padding.css
 
   -   [INSPIRE][]: The literature database for HEP (I'm on the advisory board)
 
-  -   [HEPData](hepdata): High Energy Physics Data Repository (I'm on the advisory board)
+  -   [HEPData](https://www.hepdata.net): High Energy Physics Data Repository (I'm on the advisory board)
 
 
 - - -
 
 ### Big projects:
+
+  * [MadMiner](https://iris-hep.org/projects/madminer.html): advanced likelihood-free inference particle physics (eg. for effective field theory measurements)
 
   * [Carl](http://diana-hep.org/carl): a toolbox for likelihood-free inference ([Gilles Louppe](https://glouppe.github.io/) and [Juan Pavez](https://github.com/jgpavez) ) - [documentation](http://diana-hep.org/carl), [code](https://github.com/diana-hep/carl)
 
@@ -40,7 +46,7 @@ Stylesheets: concept-map.css, concept-map-padding.css
   -   [RooStats][]: The statistical tools used widely at the LHC, and
   almost exclusively for the Higgs discovery.
 
-  -   [HistFactory](https://twiki.cern.ch/twiki/bin/view/RooStats/HistFactory): A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches.
+  -   [HistFactory](https://twiki.cern.ch/twiki/bin/view/RooStats/HistFactory): A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches. Modern python-based implementation in [pyhf](https://iris-hep.org/projects/pyhf.html).
 
   -   [EventView][]: an analysis framework used widely in the early days of ATLAS, then abandoned, then largely re-invented for RunII.
 
@@ -74,7 +80,7 @@ Stylesheets: concept-map.css, concept-map-padding.css
 
   [RooStats]: https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome
   [RECAST]: http://recast.perimeterinstitute.ca
-  [INSPIRE]: http://inspirehep.net/
+  [INSPIRE]: https://labs.inspirehep.net
   [UnicodeIt]: http://www.svenkreiss.com/UnicodeIt
   [EventView]: https://cds.cern.ch/record/1057144
 

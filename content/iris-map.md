@@ -1,6 +1,6 @@
 Title: Map of IRIS-HEP
 date: 2019-05-05
-Slug: collaboration-map-iris-old
+Slug: collaboration-map-iris
 Category: Blog
 Tags: visualization
 Authors: Kyle Cranmer

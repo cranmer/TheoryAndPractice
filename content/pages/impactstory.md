@@ -41,6 +41,8 @@ Recently, I've been particularly interested in inference in the context of intra
 
 ## Selected research products based on AltMetrics:
 
+<!-- go here: https://www.altmetric.com/products/altmetric-badges/ -->
+
 <!--http://api.altmetric.com/embeds.html-->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div class="row">
@@ -61,7 +63,9 @@ Recently, I've been particularly interested in inference in the context of intra
 		Observing Ultra-High Energy Cosmic Rays with Smartphones
 	</div>
 	<div  class="col-md-8">
-		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="2771016"></div>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1016/j.astropartphys.2016.02.002" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<!--		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-altmetric-id="2771016"></div>-->
 	</div>
 </div>
 
@@ -111,6 +115,27 @@ Recently, I've been particularly interested in inference in the context of intra
 </div>
 
 - - -
+
+<div class="row">
+	<div  class="col-md-4">
+Machine learning and the physical sciences
+	</div>
+	<div  class="col-md-8">
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1103/RevModPhys.91.045002" data-hide-no-mentions="true" class="altmetric-embed"></div>
+	</div>
+</div>
+
+- - -
+
+<div class="row">
+	<div  class="col-md-4">
+Constraining Effective Field Theories with Machine Learning
+	</div>
+	<div  class="col-md-8">
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1103/PhysRevLett.121.111801" data-hide-no-mentions="true" class="altmetric-embed"></div>
+	</div>
+</div>
+
 
 
 <br >
