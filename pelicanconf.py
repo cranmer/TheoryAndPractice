@@ -82,10 +82,13 @@ DISQUS_SITENAME="theoryandpractice"
 ####################################################
 # Additions 
 STATIC_PATHS = ['images', 'downloads', 'downloads/notebooks',
-                'downloads/files','downloads/code', 'favicon.png']
+                'downloads/files','downloads/code', 'favicon.png', 
+                'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 READERS = {'html': None}
 
+#STATIC_PATHS = ['images', 'extra/CNAME']
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'

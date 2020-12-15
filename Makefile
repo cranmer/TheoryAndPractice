@@ -105,9 +105,14 @@ cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
-	ghp-import $(OUTPUTDIR) 
-	#git push origin gh-pages
-	git push git@github.com:cranmer/cranmer.github.io.git gh-pages:master
+	cd ../cranmer.github.io/ && pwd &&	git status 	&& rsync -rv --exclude=.git $(OUTPUTDIR)/ . && git add -f .  && git commit -m "automatic commit from TheoryAndPractice Makefile" && git push origin master 
+
+	#ghp-import $(OUTPUTDIR) -b temp-for-upload
+	#git push git@github.com:cranmer/cranmer.github.io.git temp-for-upload:master
+	#git branch -D temp-for-upload
+	#git checkout master
+	#
+
 
 
 deploy: publish
