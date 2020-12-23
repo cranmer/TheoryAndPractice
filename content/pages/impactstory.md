@@ -2,6 +2,8 @@ Title:
 Date: 2014-01-28 16:34
 Author: cranmer
 Slug: Research
+Stylesheets: timeline.css
+
 
 
 ## Bio (useful for introductions):
@@ -197,3 +199,4 @@ embedded it below (unfortunately, it seems to be fixed width).
 
   [Klout]: http://klout.com/#/KyleCranmer
   [ImpactStory profile]: http://impactstory.org/KyleCranmer
+
