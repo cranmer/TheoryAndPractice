@@ -27,3 +27,19 @@ I am doing a simple `grep "@" content/kyle-10authors-2020.bib ` and then I can u
 [@Rezende:2020hrd]
 
 Well, I had to edit some entries in the `.bib` file that had missing `journal` information or it lead to a critical failure. This is nice, but not exactly what I'm looking for. 
+
+... time passes...
+
+Ok, I played with [pelican-bibtex](https://github.com/vene/pelican-bibtex) some. I added a custom template and I hacked pelican-bibtex with this:
+
+``` 
+    #hack added by Kyle Cranmer to avoid problems in bib with no journal entry
+    for entry in bibdata_all.entries.values():
+        if 'journal' not in entry.fields: 
+            entry.fields['journal']=''
+        if 'booktitle' not in entry.fields: 
+            entry.fields['booktitle']=''
+
+    formatted_entries = plain_style.format_entries(bibdata_all.entries.values())
+```
+so that I don't have to modify the `.bib` file. That produces [this page](/publications.html)
