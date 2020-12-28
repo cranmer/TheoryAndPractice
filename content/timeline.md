@@ -1,6 +1,6 @@
 Title:  Creating a timeline
 date: 2020-12-23
-Slug: DS3
+Slug: timeline
 Category: Blog
 Tags:  website
 Authors: Kyle Cranmer
