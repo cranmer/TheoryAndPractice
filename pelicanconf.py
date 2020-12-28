@@ -96,6 +96,8 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 PUBLICATIONS_SRC = 'content/kyle-20authors.bib'
 #BIBLIOGRAPHY_START = '<section id="bib"><h1>My awesome bibliography</h1>'
 #BIBLIOGRAPHY_END = '</section>' 
+DIRECT_TEMPLATES = ['publications']
+TEMPLATE_PAGES = {'publications.html': 'output/publications.html'}
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
@@ -103,7 +105,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
   'render_math', 
   'pelican_javascript',
   'liquid_tags.include_code', 
-  'i18n_subsites',   'pelican-cite',
+  'i18n_subsites',   'pelican-cite', 'pelican-bibtex',
   'pelican-ipynb.liquid','liquid_tags.literal'] 
 #  'liquid_tags.notebook','liquid_tags.literal'] 
 #  'pelican-ipynb' ,'liquid_tags.literal'] 
