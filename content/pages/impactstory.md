@@ -27,23 +27,28 @@ so that the experiments can provide powerful, interpretable tests for a wide ran
 
 Recently, I've been particularly interested in inference in the context of intractable likelihoods, development of machine learning models imbued with physics knowledge, use of adversarial training for robustness to systematic uncertainty, the use of generative models in the physical sciences, and integration of reproducible workflows in the inference pipeline.
 
+<!--
 <a href="http://inspirehep.net/author/profile/K.S.Cranmer.1">
 	<img align="right" src="http://inspirehep.net/img/inspire_logo_hep.png" />
 </a>
+-->
 
 ##Profiles:
 - [Wikipedia](https://en.wikipedia.org/wiki/Kyle_Cranmer)
-- [INSPIRE Author Profile](http://inspirehep.net/author/profile/K.S.Cranmer.1)
+- [INSPIRE Author Profile](http://inspirehep.net/author/profile/K.S.Cranmer.1) | [Papers with 10 authors or less](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%3Ak.s.cranmer.1%20and%20ac%201-%3E10&ui-citation-summary=true)
 - [Google Scholar](http://scholar.google.com/citations?user=EZjSxgwAAAAJ)
 - [ORCID : 0000-0002-5769-7094](http://orcid.org/0000-0002-5769-7094)
 - [ImpactStory](https://impactstory.org/u/0000-0002-5769-7094)
-- [Klout](http://klout.com/#/KyleCranmer)
+- [figshare](http://figshare.com/authors/Kyle%20Cranmer/432748)
 
 
 
 ## Selected research products based on AltMetrics:
 
 <!-- go here: https://www.altmetric.com/products/altmetric-badges/ -->
+
+
+- - - 
 
 <!--http://api.altmetric.com/embeds.html-->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
@@ -138,6 +143,85 @@ Constraining Effective Field Theories with Machine Learning
 	</div>
 </div>
 
+ - - - 
+
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		Flows for simultaneous manifold learning and density estimation
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-arxiv-id="2003.13913"></div>
+	</div>
+</div>
+
+- - - 
+
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		Discovering Symbolic Models from Deep Learning with Inductive Biases
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-arxiv-id='2006.11287'></div>
+	</div>
+</div>
+
+- - - 
+
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		Equivariant Flow-Based Sampling for Lattice Gauge Theory
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-arxiv-id='2003.06413'></div>
+	</div>
+</div>
+
+- - - 
+
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		The frontier of simulation-based inference
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-arxiv-id='1911.01429'></div>
+	</div>
+</div>
+ 
+ - - - 
+
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		Hamiltonian Graph Networks with ODE Integrators
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-arxiv-id='1909.12790'></div>
+	</div>
+</div>
+ 
+ - - - 
+
+<!--http://api.altmetric.com/embeds.html-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class="row">
+	<div  class="col-md-4">
+		Sampling using SU(N) gauge equivariant flows
+	</div>
+	<div  class="col-md-8">
+		<div class='altmetric-embed' data-badge-type='donut' data-badge-details='right' data-arxiv-id='2008.05456'></div>
+	</div>
+</div>
+ 
+ - - - 
 
 
 <br >
