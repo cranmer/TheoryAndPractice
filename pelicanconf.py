@@ -58,11 +58,14 @@ SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('github', 'http://github.com/cranmer'),
           ('linkedin','http://www.linkedin.com/in/kylecranmer'),
           ('youtube','https://www.youtube.com/channel/UCKl2VoIJiPYp3QhuK22b7xQ'),
-          ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'),
-          ('ImpactStory','https://impactstory.org/u/0000-0002-5769-7094'))
+          ('INSPIRE (≤ 10 authors)','https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%3Ak.s.cranmer.1%20and%20ac%201-%3E10&ui-citation-summary=true'),
+          ('Google Scholar', 'http://scholar.google.com/citations?user=EZjSxgwAAAAJ')
+          )
 
+#          ('ImpactStory','https://impactstory.org/u/0000-0002-5769-7094')
 #          ('flickr','http://www.flickr.com/photos/hoonynoo/'),
 #          ('google+','https://plus.google.com/106689822196584540592/posts'),
+#          ('figshare','http://figshare.com/authors/Kyle%20Cranmer/432748'),
 
 
 CC_LICENSE="CC-BY"

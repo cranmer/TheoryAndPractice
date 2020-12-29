@@ -29,9 +29,9 @@ Stylesheets: FeedEk.css
 <!--{% img /images/kyle-andys-party-miras-photo.jpg 300 200 Me %}-->
 
 
- <div > <img src="/images/kyle-andys-party-miras-photo.jpg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Kyle Cranmer, I'm a professor at NYU interested in particle physics, machine learning, statistics, open science, cyberinfrastructure, and science communication to the broader public.
+ <div > <img src="/images/kyle-andys-party-miras-photo.jpg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Kyle Cranmer, I'm a professor at NYU interested in particle physics, machine learning, statistics, open science, cyberinfrastructure, and science communication to the broader public. 
 
-I also use this as a playground for blogging with [Pelican](http://getpelican.com/), there may be some glitches. </div><br />
+I also use this as a playground for blogging with [Pelican](http://getpelican.com/), there may be some glitches. Also, I now have a beard. </div><br />
 
 <br clear="all" />
 
