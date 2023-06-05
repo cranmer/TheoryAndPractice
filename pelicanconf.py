@@ -23,14 +23,9 @@ MENUITEMS = (
 			('Media & Outreach','/pages/in-the-news.html'),)
 
 
-LINKS =  (('My group', 'https://physics.nyu.edu/experimentalparticle/'),
-          ('CCPP','http://cosmo.nyu.edu/'),
-          ('CDS','http://cds.nyu.edu/'),
+LINKS =  (('Data Science @ UW', 'https://datascience.wisc.edu'),
+          ('My UW Physics webpage','https://www.physics.wisc.edu/directory/cranmer-kyle/'),
           ('IRIS-HEP','https://iris-hep.org/'),
-          ('DIANA','https://diana-hep.org/'),
-          ('MSDSE','https://msdse.org'),
-          ('DASPOS','http://daspos.org/'),
-          ('SCAILFIN', 'https://scailfin.github.io'),
         )
 
 
@@ -59,7 +54,9 @@ SOCIAL = (('twitter', 'http://twitter.com/kylecranmer'),
           ('linkedin','http://www.linkedin.com/in/kylecranmer'),
           ('youtube','https://www.youtube.com/channel/UCKl2VoIJiPYp3QhuK22b7xQ'),
           ('INSPIRE (≤ 10 authors)','https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%3Ak.s.cranmer.1%20and%20ac%201-%3E10&ui-citation-summary=true'),
-          ('Google Scholar', 'http://scholar.google.com/citations?user=EZjSxgwAAAAJ')
+          ('Google Scholar', 'http://scholar.google.com/citations?user=EZjSxgwAAAAJ'),
+          ('ORCiD','https://orcid.org/0000-0002-5769-7094'),
+          ('Wikipedia','http://localhost:8000/pages/Research.html')
           )
 
 #          ('ImpactStory','https://impactstory.org/u/0000-0002-5769-7094')
