@@ -29,9 +29,9 @@ Stylesheets: FeedEk.css
 <!--{% img /images/kyle-andys-party-miras-photo.jpg 300 200 Me %}-->
 
 
- <div > <img src="/images/kyle-andys-party-miras-photo.jpg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Kyle Cranmer, I'm a professor at NYU interested in particle physics, machine learning, statistics, open science, cyberinfrastructure, and science communication to the broader public. 
+ <div > <img src="/images/Kyle-Cranmer-headshot-cropped-square-web.jpeg" width="55%" Alt="Kyle Cranmer" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	After 15 fantastic years at NYU, I moved to the University of Wisconsin-Madison in July 2022 to be the Director of their Data Science Institute. In addition to being the David R. Anderson Director of UW-Madison's Data Science Institute, I'm a Professor of Physics with courtesy appointments in Statistics and Computer Sciene. My research interests are in particle physics, machine learning, statistics, open science, cyberinfrastructure, and science communication to the broader public. 
 
-I also use this as a playground for blogging with [Pelican](http://getpelican.com/), there may be some glitches. Also, I now have a beard. </div><br />
+I also use this as a playground for blogging with [Pelican](http://getpelican.com/), there may be some glitches. </div><br />
 
 <br clear="all" />
 
