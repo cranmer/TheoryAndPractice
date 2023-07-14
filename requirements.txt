@@ -8,7 +8,7 @@ bleach==3.1.0
 blinker==1.4
 certifi==2019.3.9
 #cffi==1.11.5
-cryptography==2.4.2
+cryptography==41.0.2
 decorator==4.4.0
 defusedxml==0.6.0
 docutils==0.14
