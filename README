@@ -1,1 +1,3 @@
 .virtualenvs/pelican-3.7/
+
+publish with make github
