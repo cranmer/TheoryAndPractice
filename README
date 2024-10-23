@@ -1,3 +1,5 @@
 .virtualenvs/pelican-3.7/
 
 publish with make github
+this will put stuff in the cranmer.github.io repo.
+Then push that to GitHub separately
