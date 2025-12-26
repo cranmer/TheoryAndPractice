@@ -74,7 +74,7 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
 # comments
-DISQUS_SITENAME="theoryandpractice"
+#DISQUS_SITENAME="theoryandpractice" # commenting out b/c it's now full of ads
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

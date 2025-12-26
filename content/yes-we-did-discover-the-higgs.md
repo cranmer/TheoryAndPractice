@@ -6,9 +6,9 @@ Tags:  physics, machine learning, statistics
 Authors: Kyle Cranmer
 
 Ben Recht got my attention with a [tweet](https://x.com/beenwrekt/status/1848733784868589815)
- about his blog post "[The Higgs discovery did not take place](https://www.argmin.net/p/the-higgs-discovery-did-not-take).” I’m generally a fan of Ben’s writing, but I think he’s off base on a number of issues, and I’ll explain why. [This is a first draft of this post, I'll try to finish soon.]
+ about his blog post "[The Higgs discovery did not take place](https://www.argmin.net/p/the-higgs-discovery-did-not-take).” I’m generally a fan of Ben’s writing, but I think he’s off base on a number of issues, and I’ll explain why. [Updated Oct 23rd, 2024]
 
-[Ben's post](https://www.argmin.net/p/the-higgs-discovery-did-not-take) starts off with a debate about statistics (the role of null hypothesis testing), but the post goes into a lot of other issues and ends with a daming conclusion 
+[Ben's post](https://www.argmin.net/p/the-higgs-discovery-did-not-take) starts off with a debate about statistics (the role of null hypothesis testing), but the post goes into a lot of other issues and ends with a damning conclusion 
 <blockquote>
 The Higgs Discovery is a celebration of modern bureaucracy, not a revelation about material reality.
 </blockquote>
@@ -58,7 +58,7 @@ There are other ways to search for the Higgs where it decays into different part
 
 These are more recent results with a lot more data, and the statistical significance is WAY beyond $5\sigma$. If you don’t like frequentist statistics, you are free to calculate your Bayes factor or any other statistical measure you want. There is no scale used in any area of science where this wouldn’t be a slam dunk in favor of the alternate hypothesis.
 
-Without any fancy theory, you can say that if thre is one particle producing both bumps, then I should expect the bumps to show up at the same place (around 125 GeV). That’s indeed the case. And both the ATLAS and CMS experiments saw this bump in the same location (here's the ATLAS [plot]({filename}/images/atlas-zz-138.png)).
+Without any fancy theory, you can say that if there is one particle producing both bumps, then I should expect the bumps to show up at the same place (around 125 GeV). That’s indeed the case. And both the ATLAS and CMS experiments saw this bump in the same location (here's the ATLAS [plot]({filename}/images/atlas-zz-138.png)).
 
 So when Ben writes “Do we believe that their presented statistical counts represent a close enough facsimile of experimental conditions to corroborate an ornate, impossible to understand theory?” I hope you can see how that is off base when it comes to claiming discovery of a new particle. It's less off base when it comes to connecting this discovery to the underlying theory of the standard model of particle physics.
 
@@ -68,9 +68,9 @@ It's worth nothing that the experiments were slow to say in scientific papers an
 
 ## Is the discovery just modern bureaucracy? 
 
-The article post that the big experiments operate by majority vote. That’s laughable and misleading. First, the majority vote framing evokes Tyranny of the majority and makes it seem like there is a significant fraction of the particle physics community that doesn’t agree that we discovered the Higgs. 
+The article post that the big experiments operate by majority vote. That’s laughable and misleading. First, the majority vote framing evokes *Tyranny of the majority* and makes it seem like there is a significant fraction of the particle physics community that doesn’t agree that we discovered the Higgs. 
 
-In reality, we operate on consensus, which can be slow and, at times, frustraiting. If individual people are not convinced, they can effectively block the collaborations from making claims they don't agree with. That rarely happens, but the emphasis on consensus leads to a slow process that tends to be very careful and conservative. You’d be hard-pressed to find a practicing particle physicist (among the ~10,000 working in this field from all around the world) that isn’t convinced that we discovered a particle in the search for the Higgs. 
+In reality, we operate on consensus, which can be slow and, at times, frustrating. If individual people are not convinced, they can effectively block the collaborations from making claims they don't agree with. That rarely happens, but the emphasis on consensus leads to a slow process that tends to be very careful and conservative. You’d be hard-pressed to find a practicing particle physicist (among the ~10,000 working in this field from all around the world) that isn’t convinced that we discovered a particle in the search for the Higgs. 
 
 There are a few that argued early on about whether or not what we found is the Higgs boson, but that quickly becomes a much more subtle question. I’d say that the overwhelming consensus is that a) we discovered a particle, b) that particle has the properties to be considered “a Higgs boson”, c) it is consistent with the specific properties we expect for the Higgs boson found in the Standard Model, and d) we are doing lots of precision measurements to see if we can uncover any deviations from the Standard Model that might point to some kind of new physics.
 
@@ -90,9 +90,11 @@ Ben writes “There has to be something we can do with substantive causal theori
 
 More specifically, you can predict that you should see a bump in a specific plot and what you would expect to see in hundreds or thousands of other plots. We did that. It took about 20 years to make it happen. Not only do we see what you would expect if the Higgs exists, we definitely DO NOT see what you would expect if it did not exist (i.e. the null hypothesis). 
 
-Why do you care if there’s a bump in some plot? Well you don’t really, but that’s the confirmation that this mechanism -- as opposed to some other one -- is what is going on. And understanding that mechanism is critical to unraveling the broader mysteries of how the universe works.
+Why do you care if there’s a bump in some plot? Well you don’t really, but that’s the confirmation that this mechanism -- as opposed to some other one -- is what is going on. And understanding that mechanism is critical to unraveling the broader mysteries of how the universe works. 
 
 It’s true that you can describe chemistry and most quantum physics that we actually use in our daily lives without knowing if the Higgs mechanism is ultimately responsible for the mass of the electron or radioactive decay, but that is a shallow criticism that is basically saying that doing pure, basic research is a waste of time. 
+
+While it is true that basic science has led to many practical applications, that's not always true. The people studying quantum mechanics back in the 1920s were doing basic research that seemed very far removed from our lives. But that ended up giving us lasers, transistors, etc. Is the Higgs like that? I doubt it, but who knows. Personally, I am critical of physicists that try to make overly optimistic extrapolations of how the Higgs is going to directly affect any technologies. The case for impact on society is much more clear through spinoff technologies like CERN's role in inventing the world wide web or scaling up the production of superconducting materials for comercial production. But it's also important to realize that understanding the Higgs mechanism is sometimes a necessary ingredient for being able to understand other phenomena at the forefront of our understanding of the universe. It is quite possible that some downstream fundemental discovery that does end up having practical applications was only made possible because of what we learned about the Higgs at the LHC -- but no promises. 
 
 ## Can we trust this? 
 
@@ -115,33 +117,35 @@ In addition, the major experiments have started releasing [statistical models](h
 
 ## Don't take this literally, p-hacking and the look elsewhere effect
 
-More to come... Preview: 
-
-We worry a lot about multiple testing. We call it the look-elswewhere effect, and we account for it / correct for it. We make the distincition between "local significance" and "global-significance" (that includes the correction).
+Particle physicists worry a lot about multiple testing. We call it the look-elswewhere effect, and we account for it / correct for it. We make the distincition between "local significance" and "global-significance" (that includes the correction).
 
 The blog post quotes a Science magazine piece, which introduces some confusion and has this quote 
 <blockquote>
 For example, a 5σ significance tells us that the probability of the background alone fluctuating up locally by the amount observed or more is about 1 in 3 million. In particle physics, this criterion has become a convention to claim discovery but should not be interpreted literally.
 </blockquote> 
-Ben reacts strongly to this, which isn't totally unreasonable given what is written in that Science Magazine article. But the 
+Ben reacts strongly to this, which isn't totally unreasonable given what is (incorrectly) written in that Science Magazine article. 
 
 As far as I can tell, that Science Magazine glossary was written by Science Magazine, not by the experimental collaborations. Whoever wrote it, they confuse different things. $5\sigma$ is just a different way to refer to a specific probability or p-value, it has nothing to do with if it's local (no correction for multiple testing) or global (with correction). When we claimed discovery, we had $5\sigma$ globally in two independent experiments. These days it's way more significant than that. 
 
-Secondly, I don't know what they were thinking when they say it shoudln't be interpreted literally. We very much calculate these p-values based on the distribution of the profile likelihood ratio test statistic. We explictly correct for multiple testing. And we've also gone through the process of calculating Bayesian posteriors etc. using the same statistical model. It all matches up.  I think the point there was that when the p-values get this small the specific numerical value of the p-value isn't that relevant. The same could be said for a Bayes factor. 
+Secondly, I don't know what they were thinking when they say it shouldn't be interpreted literally. We very much calculate these p-values based on the distribution of the profile likelihood ratio test statistic. We explictly correct for multiple testing. And we've also gone through the process of calculating Bayesian posteriors etc. using the same statistical model. It all matches up.  I think the point there was that when the p-values get this small the specific numerical value of the p-value isn't that relevant. The same could be said for a Bayes factor. 
 
 So no, particle physicsist are not p-hacking. Moreover, when p-values get this small ($<10^{-6}$), it doesn't make a very big difference for the number of "tests" we are doing as we scan over the unknown Higgs boson mass ($\approx 100$). It's like a difference between $5\sigma$ and $5.1 \sigma$. 
 
+While it is in the weeds, [the figure that Ben shows](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a92e8d-1afb-4e88-aee5-95b70491a0d1_1772x1374.png) is not the figure that we use to claim we discovered the Higgs, [this is]({filename}/images/Higgs-local-p-value.png). He writes "See the bump that goes outside of their green error bars? That’s the Higgs Boson. (insert shrug emoji)." That's just wrong. Ben links to [this review](https://www.ma.imperial.ac.uk/~dvandyk/Research/14-reviews-higgs.pdf) by David van Dyk (a statistician that is engaged with the physics community, but not part of the experimental collaborations). [Figure 5]({filename}/images/Higgs-local-p-value.png) of that review is the more relevant one. The next section in that review discusses how we correct / account for the look-elsewhere effect (aka multiple testing).
+
 ## Mindless conventions
 
-More to come... Preview: yes $5\sigma$ is just a convention, no one is defending that. But it's kind of irrelevant, the statistical significance here is rediculously high on any scale.
+Yes $5\sigma$ is just a convention, no one is (should be) defending that. But it's kind of irrelevant, the statistical significance here is rediculously high on any scale. I do share some of Ben's thoughts about the role of statistics and fairly arbitrary thresholds for providing compressed, crisp rules.
 
-Also, the field doesn't just go by these conventions. Not long ago [there was an excess of events that was unexpected and by most statistical measures was very signficant](http://theoryandpractice.org/2016/04/Supersplit-750/). The field did not claim a discovery. Partially that's because the look-elsewhere effect was a significant penalty. But even then, it was quite significant. In essence, the field didn't claim a discovery because it was so unexpected and hard to reconcile with other things we would expect to see based on our understanding of quantum field theory. In the end, with more data that bumpt went away. If there's a criticism there, I think it's that the field did not rigidly abiding by the mindless convention. 
+Interestingly, the field doesn't just go by these conventions. Not long ago [there was an excess of events that was unexpected and by most statistical measures was very signficant](http://theoryandpractice.org/2016/04/Supersplit-750/). The field did not claim a discovery. Partially that's because the look-elsewhere effect was a significant penalty. But even then, it was quite significant. In essence, the field didn't claim a discovery because it was so unexpected and hard to reconcile with other things we would expect to see based on our understanding of quantum field theory. In the end, with more data that bumpt went away. If there's a criticism there, I think it's that the field did not rigidly abide by the mindless convention. 
 
 Now going back to the original question / debate at the start of the article, "What are the grand discoveries that we wouldn’t have made without an understanding of null hypothesis testing?" That seems like a weirdly worded question. It's more that the search itself naturally lends itself to a hypothesis testing framework. We literally have two competing hypotheses. That framing of the question has nothing to do with the arbitrary cutoffs for when you claim discovery or not. In this case, the evidence is so overwhelming, the cutoff is pracitcally irrelevant.
 
 ## The irony of how the large particle physics experiments actually work
 
-More to come... Preview: the collaborations work by consensus. So it's actually very hard to push through new ideas. The decision making process tends to only allow for more traditional / less fancy approaches. This is good for robustness and making sure everyone understands what's going on, but this actually drives a lot of young smart people away from the field.
+As mentioned above, the collaborations effectively work by consensus. Yes, there are too many meetings. Yes there is too much bureaucracy. If anyone knows how to get thousands of scientists employed by different institutions from all around the world to do this kind of cutting edge science more efficiently, please let us know.  
+
+The irony is that it's actually very hard to push through new ideas. The decision making process tends to only allow for more traditional / less fancy approaches. This is good for robustness and making sure everyone understands what's going on, but this actually drives a lot of young smart people away from the field.
 
 ## Complex systems, engineering, and scale
 
@@ -154,4 +158,11 @@ So much of science is built on the separation of scales. The details of phenomen
 The situation in biology is much harder and more extreme because it's more difficult to have a clean separation of scales and the phenomena are so much more intrensically complicated. But even then, would you say that the dsicovery of a vaccines or antibiotic did not take place because no one understands the full story from the atomistic level to the level of organs or epedimics? That seems silly to me.
 
 
+## What would be more interesting criticism?
+
+This will need to be a topic of some possible future blog post, but there are many issues where there are interesting criticisms, subtleties, or extensions. Some examples:
+
+ * The null hypothesis (e.g. no Higgs) is actually not very well defined from a quantum field theory point of view in the Higgs search. This is subtle, but you can't just take out the Higgs and make sensible calculations (related to gauge invariance). There are alternate approaches that do make sense with no Higgs, but you are faced with various arbitrary choices. It gets very subtle from a theoretical physics perspective, and it's fascinating when you pair that with the philosophical questions around null hypothesis testing.
+ * Particle physics does have situations where the hypothesis are not so data driven and they rely much more heavily on the theoretical edifice of quantum field theory and our simulation of the complicated detectors. In these cases,   the statistical models are implicitly defined by simulators is actually a very hot topic that blends classical statistics with modern deep learning. We often say that the simulators don't have a tractable likelihood function. This applies to frequentist hypothesis testing, confidence intervals, and Bayesian inference. Confronting these challenging situations is what motivated [simulation-based inference](http://simulation-based-inference.org), which is applicable to a host of scientific disciplines. 
+ * Model mis-specification is a very important topic. The physics community has gotten pretty good at adding more flexibility to the model to accomodate systematic uncertainties and procedures for coping with those nuisance parameters, but dealing with the residual model misspecification is definitely an area where all sciences -- particle physics included -- can and should improve. 
 
